@@ -1,0 +1,174 @@
+[
+  {
+    "slug": "chatgpt-vs-claude",
+    "toolA": "chatgpt",
+    "toolB": "claude",
+    "title": "ChatGPT vs Claude：哪个更适合你？",
+    "verdict": "ChatGPT 胜在生态全面和多模态，Claude 胜在长文本处理和指令精确度",
+    "keyDifferences": [
+      {"dimension": "上下文长度", "toolA": "128K token，长对话后期容易遗忘", "toolB": "200K token，长文档处理始终稳定", "winner": "b"},
+      {"dimension": "多模态能力", "toolA": "文字+图像+语音+视频全覆盖", "toolB": "仅文字输入输出，无图像生成", "winner": "a"},
+      {"dimension": "指令遵循", "toolA": "大部分场景表现好，复杂格式偶有偏差", "toolB": "格式控制精确度极高，几乎不偏离要求", "winner": "b"},
+      {"dimension": "插件生态", "toolA": "GPTs 商店有数百万应用", "toolB": "通过 MCP 协议扩展，生态尚在建设", "winner": "a"},
+      {"dimension": "代码能力", "toolA": "通用编程能力强，有代码解释器", "toolB": "复杂重构和大型项目理解更出色", "winner": "b"}
+    ],
+    "bestForA": "ChatGPT 更适合需要一站式多模态体验、经常使用插件和语音功能的用户",
+    "bestForB": "Claude 更适合处理长文档、需要精确格式输出、以及重度编程的专业用户",
+    "pricingComparison": "两者 Pro 版均为 $20/月，ChatGPT 有 $200 的 Pro 版提供 o1 pro，Claude 有 $100 团队版和 $200 企业版"
+  },
+  {
+    "slug": "cursor-vs-copilot",
+    "toolA": "cursor",
+    "toolB": "github-copilot",
+    "title": "Cursor vs GitHub Copilot：AI 编程工具终极对决",
+    "verdict": "Cursor 在 AI 原生编辑体验上领先，Copilot 在 IDE 覆盖和企业集成上更强",
+    "keyDifferences": [
+      {"dimension": "Agent 能力", "toolA": "Composer 可跨文件自动实现完整功能", "toolB": "Agent 模式可执行命令但跨文件能力稍弱", "winner": "a"},
+      {"dimension": "IDE 支持", "toolA": "仅限 Cursor 编辑器（基于 VS Code）", "toolB": "VS Code、JetBrains、Neovim、Xcode 全覆盖", "winner": "b"},
+      {"dimension": "代码补全", "toolA": "Tab 补全能预测多行意图，体验极佳", "toolB": "单行补全稳定，多行预测稍逊", "winner": "a"},
+      {"dimension": "企业功能", "toolA": "Business 版有基础团队管理", "toolB": "Enterprise 版有知识库索引和模型微调", "winner": "b"},
+      {"dimension": "价格", "toolA": "Pro $20/月，500 次快速请求", "toolB": "Pro $10/月，无限补全和聊天", "winner": "b"}
+    ],
+    "bestForA": "Cursor 更适合追求极致 AI 编程体验、主要使用 VS Code 的全栈开发者",
+    "bestForB": "Copilot 更适合使用 JetBrains IDE、需要企业级管理功能、或预算敏感的团队",
+    "pricingComparison": "Copilot Pro $10/月性价比更高，Cursor Pro $20/月但 AI 能力更强；企业版 Copilot $39 vs Cursor $200"
+  },
+  {
+    "slug": "midjourney-vs-dalle",
+    "toolA": "midjourney",
+    "toolB": "dall-e",
+    "title": "Midjourney vs DALL-E：AI 绘画谁更强？",
+    "verdict": "Midjourney 艺术美感更强，DALL-E 在文字渲染和易用性上胜出",
+    "keyDifferences": [
+      {"dimension": "美学质量", "toolA": "默认出图极具艺术感，色彩和构图出众", "toolB": "写实风格好，但艺术感不如 MJ", "winner": "a"},
+      {"dimension": "文字渲染", "toolA": "图中文字经常出错或变形", "toolB": "文字渲染准确度业界最强", "winner": "b"},
+      {"dimension": "使用方式", "toolA": "网页端独立使用，需学习提示词技巧", "toolB": "在 ChatGPT 中对话式生成，零学习成本", "winner": "b"},
+      {"dimension": "风格多样性", "toolA": "擅长奇幻、概念艺术、插画等艺术风格", "toolB": "擅长写实、产品图、简洁设计风格", "winner": "a"},
+      {"dimension": "免费使用", "toolA": "无免费版，最低 $10/月", "toolB": "需 ChatGPT Plus $20/月", "winner": "tie"}
+    ],
+    "bestForA": "Midjourney 更适合追求艺术美感的设计师、概念艺术家和创意工作者",
+    "bestForB": "DALL-E 更适合需要图中文字准确、偏好对话式交互的非专业用户",
+    "pricingComparison": "Midjourney 最低 $10/月（Basic），DALL-E 需 ChatGPT Plus $20/月但包含 ChatGPT 所有功能"
+  },
+  {
+    "slug": "cursor-vs-windsurf",
+    "toolA": "cursor",
+    "toolB": "windsurf",
+    "title": "Cursor vs Windsurf：新一代 AI 编辑器谁更值得用？",
+    "verdict": "Cursor 功能更强大成熟，Windsurf 免费版更慷慨且交互更流畅",
+    "keyDifferences": [
+      {"dimension": "Agent 稳定性", "toolA": "Composer 在大型项目中表现稳定可靠", "toolB": "Cascade 偶尔在复杂场景中出现偏差", "winner": "a"},
+      {"dimension": "免费版体验", "toolA": "50 次慢速请求，体验受限", "toolB": "免费版功能更多，限制更宽松", "winner": "b"},
+      {"dimension": "交互体验", "toolA": "功能全面但界面略显复杂", "toolB": "Cascade 流式交互直观流畅", "winner": "b"},
+      {"dimension": "项目理解", "toolA": "@codebase 全项目语义索引强大", "toolB": "项目索引能力在追赶中", "winner": "a"},
+      {"dimension": "插件兼容", "toolA": "完美兼容 VS Code 插件生态", "toolB": "兼容大部分但非全部 VS Code 插件", "winner": "a"}
+    ],
+    "bestForA": "Cursor 更适合处理大型复杂项目、需要强大 Agent 能力的专业开发者",
+    "bestForB": "Windsurf 更适合预算有限、偏好流畅交互体验的个人开发者和学生",
+    "pricingComparison": "两者 Pro 版均为 $20/月，但 Windsurf 免费版明显更慷慨"
+  },
+  {
+    "slug": "chatgpt-vs-gemini",
+    "toolA": "chatgpt",
+    "toolB": "gemini",
+    "title": "ChatGPT vs Gemini：两大 AI 巨头全面对比",
+    "verdict": "ChatGPT 综合能力和生态更强，Gemini 在 Google 集成和免费体验上占优",
+    "keyDifferences": [
+      {"dimension": "免费版质量", "toolA": "免费版限制多，经常触发用量上限", "toolB": "免费版即可用 Gemini 2.5 Flash，体验完整", "winner": "b"},
+      {"dimension": "生态集成", "toolA": "独立生态，GPTs 商店丰富", "toolB": "深度集成 Gmail、Docs、Drive 等 Google 服务", "winner": "b"},
+      {"dimension": "创意写作", "toolA": "风格灵活多变，创意表达能力强", "toolB": "风格偏保守，创意性不如 ChatGPT", "winner": "a"},
+      {"dimension": "上下文窗口", "toolA": "128K token", "toolB": "100 万 token（付费版）", "winner": "b"},
+      {"dimension": "中文能力", "toolA": "中文理解和生成质量高", "toolB": "中文能力明显弱于英文", "winner": "a"}
+    ],
+    "bestForA": "ChatGPT 更适合需要高质量中文内容、创意写作和完整 AI 生态的用户",
+    "bestForB": "Gemini 更适合 Google 重度用户、需要处理超长文档、或想要免费高质量 AI 的用户",
+    "pricingComparison": "Gemini 免费版体验远好于 ChatGPT 免费版；付费版 ChatGPT Plus $20 vs Gemini Advanced $19.99（含 2TB Google One）"
+  },
+  {
+    "slug": "chatgpt-vs-perplexity",
+    "toolA": "chatgpt",
+    "toolB": "perplexity",
+    "title": "ChatGPT vs Perplexity：AI 对话还是 AI 搜索？",
+    "verdict": "ChatGPT 是全能型 AI 助手，Perplexity 是最佳 AI 搜索引擎",
+    "keyDifferences": [
+      {"dimension": "信息时效性", "toolA": "有搜索功能但非默认开启", "toolB": "每次回答都实时搜索最新信息", "winner": "b"},
+      {"dimension": "来源可信度", "toolA": "搜索结果有引用但不够突出", "toolB": "每句话都标注来源编号，一键验证", "winner": "b"},
+      {"dimension": "创作能力", "toolA": "长文写作、代码生成、创意任务全能", "toolB": "专注信息检索，创作能力有限", "winner": "a"},
+      {"dimension": "多模态", "toolA": "图像生成、语音对话、视频理解", "toolB": "仅文字搜索和回答", "winner": "a"},
+      {"dimension": "使用场景", "toolA": "通用助手，什么都能做", "toolB": "专注于研究和信息获取", "winner": "tie"}
+    ],
+    "bestForA": "ChatGPT 更适合需要创作、编程、多模态等综合能力的用户",
+    "bestForB": "Perplexity 更适合需要快速获取准确、有来源的最新信息的研究者",
+    "pricingComparison": "两者 Pro 版均为 $20/月；Perplexity 免费版搜索体验更好，ChatGPT 免费版综合能力更强"
+  },
+  {
+    "slug": "claude-vs-gemini",
+    "toolA": "claude",
+    "toolB": "gemini",
+    "title": "Claude vs Gemini：长文本处理谁是王者？",
+    "verdict": "Claude 在精确度和代码上领先，Gemini 在上下文长度和免费体验上占优",
+    "keyDifferences": [
+      {"dimension": "上下文窗口", "toolA": "200K token（约 15 万字）", "toolB": "100 万 token（付费版，约 75 万字）", "winner": "b"},
+      {"dimension": "输出精确度", "toolA": "指令遵循和格式控制业界最佳", "toolB": "偶尔偏离指令，格式控制一般", "winner": "a"},
+      {"dimension": "代码能力", "toolA": "复杂代码推理和重构能力顶尖", "toolB": "代码能力中上，不如 Claude 深入", "winner": "a"},
+      {"dimension": "生态集成", "toolA": "独立平台，通过 MCP 扩展", "toolB": "深度集成 Google Workspace 全家桶", "winner": "b"},
+      {"dimension": "免费版", "toolA": "免费版用量极少，基本只够体验", "toolB": "免费版功能完整，日常使用足够", "winner": "b"}
+    ],
+    "bestForA": "Claude 更适合需要精确输出控制、重度编程、和专业文档处理的用户",
+    "bestForB": "Gemini 更适合 Google 生态用户、需要超长上下文、或预算有限的用户",
+    "pricingComparison": "Claude Pro $20/月 vs Gemini Advanced $19.99/月（含 2TB 存储）；Gemini 免费版体验远好于 Claude 免费版"
+  },
+  {
+    "slug": "stable-diffusion-vs-midjourney",
+    "toolA": "stable-diffusion",
+    "toolB": "midjourney",
+    "title": "Stable Diffusion vs Midjourney：开源自由 vs 商业美学",
+    "verdict": "Stable Diffusion 胜在自由度和零成本，Midjourney 胜在开箱即用的美学质量",
+    "keyDifferences": [
+      {"dimension": "使用成本", "toolA": "完全免费（需自备 GPU）", "toolB": "最低 $10/月，无免费版", "winner": "a"},
+      {"dimension": "默认出图质量", "toolA": "需要大量调参和选择模型", "toolB": "默认出图就有极高美学水准", "winner": "b"},
+      {"dimension": "可控性", "toolA": "ControlNet 实现像素级精确控制", "toolB": "主要通过提示词控制，精确度有限", "winner": "a"},
+      {"dimension": "自定义训练", "toolA": "可训练 LoRA 实现任何风格/人物", "toolB": "不支持用户自定义模型训练", "winner": "a"},
+      {"dimension": "上手难度", "toolA": "需要技术知识，学习曲线陡峭", "toolB": "输入提示词即可，几分钟上手", "winner": "b"}
+    ],
+    "bestForA": "Stable Diffusion 更适合有技术背景、需要精确控制和无限生成的专业用户",
+    "bestForB": "Midjourney 更适合追求美学质量、不想折腾技术的设计师和创意工作者",
+    "pricingComparison": "SD 完全免费但需 GPU（约 ¥3000+ 显卡）；MJ 月费 $10-120 但零硬件要求"
+  },
+  {
+    "slug": "runway-vs-kling",
+    "toolA": "runway",
+    "toolB": "kling",
+    "title": "Runway vs 可灵：中美 AI 视频生成巅峰对决",
+    "verdict": "Runway 在画质和专业工具上领先，可灵在性价比和中文理解上更强",
+    "keyDifferences": [
+      {"dimension": "视频质量", "toolA": "Gen-4 画质细腻，运动自然流畅", "toolB": "画质接近但运动偶有不自然", "winner": "a"},
+      {"dimension": "生成时长", "toolA": "最长 10 秒/次", "toolB": "支持最长 3 分钟视频生成", "winner": "b"},
+      {"dimension": "中文支持", "toolA": "英文提示词效果最佳", "toolB": "中文提示词理解准确", "winner": "b"},
+      {"dimension": "价格", "toolA": "最低 $15/月，credits 消耗快", "toolB": "免费版每天可生成多段视频", "winner": "b"},
+      {"dimension": "专业工具", "toolA": "Motion Brush、绿幕、超分等完整工具链", "toolB": "功能相对单一，主要是生成", "winner": "a"}
+    ],
+    "bestForA": "Runway 更适合需要专业视频编辑工具链和最高画质的海外创作者",
+    "bestForB": "可灵更适合中文用户、需要生成较长视频、或预算有限的创作者",
+    "pricingComparison": "Runway 最低 $15/月且 credits 有限；可灵有免费版，付费版价格更亲民",
+    "toolBInfo": {"name": "可灵 (Kling)", "company": "快手", "website": "https://klingai.com", "description": "快手推出的 AI 视频生成工具，支持最长 3 分钟视频生成，中文提示词理解出色，免费版慷慨"}
+  },
+  {
+    "slug": "jasper-vs-copyai",
+    "toolA": "jasper",
+    "toolB": "copyai",
+    "title": "Jasper vs Copy.ai：AI 营销写作工具哪家强？",
+    "verdict": "Jasper 在品牌一致性和企业功能上更强，Copy.ai 在性价比和工作流自动化上占优",
+    "keyDifferences": [
+      {"dimension": "品牌控制", "toolA": "品牌声音训练确保调性一致", "toolB": "有品牌功能但深度不如 Jasper", "winner": "a"},
+      {"dimension": "价格", "toolA": "最低 $49/月，门槛较高", "toolB": "有免费版，Pro $49/月无限字数", "winner": "b"},
+      {"dimension": "工作流自动化", "toolA": "侧重内容生成，自动化有限", "toolB": "Workflows 可自动化整个营销流程", "winner": "b"},
+      {"dimension": "SEO 集成", "toolA": "深度集成 Surfer SEO 数据", "toolB": "基础 SEO 建议，不如 Jasper 深入", "winner": "a"},
+      {"dimension": "团队协作", "toolA": "完善的审批流程和权限管理", "toolB": "基础协作功能", "winner": "a"}
+    ],
+    "bestForA": "Jasper 更适合注重品牌一致性、需要 SEO 优化和团队协作的企业营销团队",
+    "bestForB": "Copy.ai 更适合预算有限、需要自动化工作流的中小企业和个人营销者",
+    "pricingComparison": "Jasper 最低 $49/月无免费版；Copy.ai 有免费版（2000 字/月），Pro $49/月无限字数",
+    "toolBInfo": {"name": "Copy.ai", "company": "Copy.ai Inc", "website": "https://copy.ai", "description": "AI 营销内容生成平台，提供免费版和工作流自动化功能，适合中小企业快速产出营销内容"}
+  }
+]

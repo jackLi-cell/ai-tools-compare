@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "ai-coding",
+    "name": "AI 编程工具",
+    "description": "AI 驱动的代码编辑器、补全工具和编程 Agent，帮助开发者提升编码效率",
+    "tools": ["cursor", "github-copilot", "claude-code", "windsurf"],
+    "icon": "code"
+  },
+  {
+    "slug": "ai-chat",
+    "name": "AI 对话与写作",
+    "description": "通用 AI 对话助手和专业写作工具，覆盖日常问答、内容创作和信息搜索",
+    "tools": ["chatgpt", "claude", "gemini", "perplexity", "jasper", "notion-ai", "elevenlabs"],
+    "icon": "chat"
+  },
+  {
+    "slug": "ai-image",
+    "name": "AI 图像与视频",
+    "description": "AI 图像生成、视频创作和视觉内容工具，从概念设计到成品输出",
+    "tools": ["midjourney", "dall-e", "stable-diffusion", "runway"],
+    "icon": "image"
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "company": "OpenAI",
+    "category": "ai-chat",
+    "tagline": "全球用户量最大的 AI 对话助手，从写作到编程无所不包",
+    "website": "https://chat.openai.com",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["GPT-4o mini 无限使用", "有限次数 GPT-4o", "基础图像生成"]},
+      {"plan": "Plus", "price": 20, "period": "月", "features": ["GPT-4o 无限使用", "GPT-4.5 有限使用", "DALL-E 4 图像生成", "高级语音模式", "深度研究"]},
+      {"plan": "Pro", "price": 200, "period": "月", "features": ["所有模型无限使用", "o1 pro 模式", "最高优先级访问"]}
+    ],
+    "pros": ["生态最完整：插件、GPTs、语音、图像、搜索一体化", "响应速度快，几乎无等待", "支持 Canvas 实时协作编辑文档和代码", "移动端体验业界最佳"],
+    "cons": ["免费版限制越来越多，经常触发用量上限", "长对话容易遗忘上下文", "中文创作偶尔出现英文思维痕迹"],
+    "bestFor": ["需要一站式 AI 助手的普通用户", "经常切换文字、图像、语音等多种任务", "想用 GPTs 商店找现成解决方案"],
+    "notFor": ["需要处理超长文档（10万字以上）的专业用户", "对数据隐私有极高要求的企业"],
+    "keyFeatures": {"多模态交互": "文字、图像、语音、视频输入输出全覆盖", "GPTs 商店": "数百万个社区创建的专用 AI 应用", "深度研究": "自动多步搜索并生成带引用的研究报告", "Canvas": "在独立画布中协作编辑文章和代码"},
+    "freeLimit": "GPT-4o mini 无限，GPT-4o 每天约 10-15 条，无 DALL-E",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "company": "Anthropic",
+    "category": "ai-chat",
+    "tagline": "以超长上下文和精准指令遵循著称的 AI 助手",
+    "website": "https://claude.ai",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["Claude 4 Sonnet 有限使用", "基础功能"]},
+      {"plan": "Pro", "price": 20, "period": "月", "features": ["Claude 4.5 Sonnet", "Claude Opus 4.7", "Projects 项目空间", "更多用量"]},
+      {"plan": "Team", "price": 100, "period": "月", "features": ["团队协作", "管理后台", "更高用量上限"]},
+      {"plan": "Enterprise", "price": 200, "period": "月", "features": ["SSO/SCIM", "自定义数据保留", "专属支持"]}
+    ],
+    "pros": ["200K token 超长上下文窗口，处理长文档无压力", "指令遵循精确度业界领先，输出格式高度可控", "代码生成质量极高，尤其擅长复杂重构", "Projects 功能可上传文件建立持久知识库"],
+    "cons": ["免费版用量极少，基本只够体验", "不支持实时联网搜索（需通过 MCP 扩展）", "图像生成能力尚未开放"],
+    "bestFor": ["处理长篇论文、合同、技术文档的专业人士", "需要精确控制输出格式的开发者", "重视 AI 安全和诚实度的用户"],
+    "notFor": ["需要 AI 绘图的创意工作者", "预算有限只想用免费版的用户"],
+    "keyFeatures": {"200K 上下文": "单次对话可处理约 15 万字，相当于一本书", "Projects": "上传文件创建持久项目空间，AI 始终记住项目背景", "Artifacts": "实时生成可交互的代码、图表、文档预览", "MCP 协议": "通过开放协议连接外部工具和数据源"},
+    "freeLimit": "Claude Sonnet 每天约 10-15 条消息，无 Projects",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "company": "Google",
+    "category": "ai-chat",
+    "tagline": "深度整合 Google 全家桶的多模态 AI，搜索与创作无缝衔接",
+    "website": "https://gemini.google.com",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["Gemini 2.5 Flash", "基础多模态", "Google 服务集成"]},
+      {"plan": "Advanced", "price": 19.99, "period": "月", "features": ["Gemini 2.5 Pro", "100万 token 上下文", "Gems 自定义AI", "Google One 2TB 存储"]}
+    ],
+    "pros": ["与 Gmail、Docs、Drive 等 Google 服务深度集成", "100 万 token 上下文窗口（付费版）行业最大", "免费版就能使用 Gemini 2.5 Flash，性价比极高", "多模态理解能力强，视频和图像分析出色"],
+    "cons": ["创意写作风格偏保守，不如竞品灵活", "中文能力相比英文有明显差距", "Gems 自定义功能不如 GPTs 生态丰富"],
+    "bestFor": ["重度 Google 生态用户（Gmail/Docs/Drive）", "需要分析超长文档或视频内容", "想要免费高质量 AI 的学生和个人用户"],
+    "notFor": ["不使用 Google 服务的用户", "需要高质量中文创作的内容创作者"],
+    "keyFeatures": {"Google 生态集成": "直接在 Gmail 中总结邮件、在 Docs 中辅助写作", "百万上下文": "付费版支持 100 万 token，可处理整本教材", "Deep Research": "自动执行多步研究并生成结构化报告", "多模态理解": "支持图片、视频、音频、PDF 等多种输入"},
+    "freeLimit": "Gemini 2.5 Flash 无限使用，2.5 Pro 有每日限额",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "company": "Anysphere",
+    "category": "ai-coding",
+    "tagline": "基于 VS Code 的 AI 原生代码编辑器，Composer 模式重新定义编程",
+    "website": "https://cursor.sh",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["2000 次补全", "50 次慢速请求"]},
+      {"plan": "Pro", "price": 20, "period": "月", "features": ["无限补全", "500 次快速请求", "Claude/GPT-4o"]},
+      {"plan": "Business", "price": 60, "period": "月", "features": ["团队管理", "集中计费", "隐私模式"]},
+      {"plan": "Enterprise", "price": 200, "period": "月", "features": ["SAML SSO", "自定义安全策略", "专属支持"]}
+    ],
+    "pros": ["Composer Agent 可自动跨文件修改，一次完成复杂重构", "完美继承 VS Code 生态，插件和快捷键无缝迁移", "Tab 补全极其智能，能预测多行代码意图", "支持 @codebase 全项目语义搜索"],
+    "cons": ["重度使用时 500 次快速请求不够用，需要等慢速", "Composer 偶尔会过度修改不相关的文件", "非 VS Code 用户需要适应新环境"],
+    "bestFor": ["全栈开发者日常编码提效", "需要 AI 辅助大规模代码重构", "VS Code 用户想要无缝升级 AI 体验"],
+    "notFor": ["JetBrains IDE 深度用户（习惯不同）", "只需要简单代码补全的轻度用户"],
+    "keyFeatures": {"Composer Agent": "描述需求后自动规划并跨多文件实现功能", "智能 Tab 补全": "基于上下文预测接下来要写的多行代码", "@codebase 搜索": "用自然语言搜索整个项目的代码和文档", "多模型切换": "支持 Claude、GPT-4o、Gemini 等多种模型"},
+    "freeLimit": "每月 2000 次补全 + 50 次慢速高级请求",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "company": "Microsoft",
+    "category": "ai-coding",
+    "tagline": "覆盖所有主流 IDE 的代码 AI 助手，GitHub 生态深度绑定",
+    "website": "https://github.com/features/copilot",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["每月 2000 次补全", "50 次聊天", "VS Code/JetBrains"]},
+      {"plan": "Pro", "price": 10, "period": "月", "features": ["无限补全", "无限聊天", "Agent 模式"]},
+      {"plan": "Business", "price": 19, "period": "月", "features": ["组织管理", "IP 保护", "策略控制"]},
+      {"plan": "Enterprise", "price": 39, "period": "月", "features": ["知识库索引", "Fine-tuning", "高级安全"]}
+    ],
+    "pros": ["支持几乎所有主流 IDE（VS Code、JetBrains、Neovim 等）", "Agent 模式可自动执行终端命令和修复错误", "与 GitHub Issues/PR 深度集成，理解项目上下文", "企业版可基于私有代码库微调模型"],
+    "cons": ["补全质量在复杂场景下不如 Cursor 的 Composer", "聊天界面交互体验不如独立 AI 编辑器流畅", "免费版限制较多，体验不完整"],
+    "bestFor": ["使用 JetBrains IDE 的 Java/Kotlin 开发者", "深度使用 GitHub 工作流的团队", "需要在多种 IDE 间切换的开发者"],
+    "notFor": ["不使用 GitHub 的团队", "追求最极致 AI 编程体验的个人开发者"],
+    "keyFeatures": {"多 IDE 支持": "VS Code、JetBrains 全系列、Neovim、Xcode 等", "Agent 模式": "自动分析错误、执行命令、修复代码", "GitHub 集成": "理解 Issues、PR 上下文，自动生成提交信息", "知识库": "企业版可索引私有仓库提供定制化建议"},
+    "freeLimit": "每月 2000 次补全 + 50 次聊天消息",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "company": "Midjourney Inc",
+    "category": "ai-image",
+    "tagline": "以极致美学风格闻名的 AI 图像生成器，艺术家的灵感引擎",
+    "website": "https://midjourney.com",
+    "pricing": [
+      {"plan": "Basic", "price": 10, "period": "月", "features": ["约 200 张图/月", "3 个并发任务"]},
+      {"plan": "Standard", "price": 30, "period": "月", "features": ["15 小时快速生成", "无限慢速", "Stealth 模式"]},
+      {"plan": "Pro", "price": 60, "period": "月", "features": ["30 小时快速生成", "12 个并发任务"]},
+      {"plan": "Mega", "price": 120, "period": "月", "features": ["60 小时快速生成", "12 个并发任务"]}
+    ],
+    "pros": ["默认出图美学质量极高，几乎不需要复杂提示词", "v8 模型在人物一致性和细节表现上大幅进步", "社区画廊提供海量灵感和提示词参考", "支持图像编辑和局部重绘"],
+    "cons": ["没有免费版，最低 $10/月起步", "对中文提示词支持较弱，英文效果更好", "无法本地部署，所有图像都经过内容审核"],
+    "bestFor": ["需要高质量概念设计和插画的设计师", "社交媒体内容创作者制作吸睛配图", "游戏和影视行业的概念原画探索"],
+    "notFor": ["预算有限想免费生成图片的用户", "需要精确控制构图和姿态的技术用户"],
+    "keyFeatures": {"v8 模型": "最新一代模型，人物一致性和文字渲染大幅提升", "风格参考": "上传参考图片让 AI 学习特定美学风格", "局部重绘": "选中图像区域单独修改，保持其余部分不变", "Web 编辑器": "在浏览器中直接编辑、扩展、变体生成"},
+    "freeLimit": "无免费版，需付费订阅",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "dall-e",
+    "name": "DALL-E",
+    "company": "OpenAI",
+    "category": "ai-image",
+    "tagline": "ChatGPT 内置的图像生成引擎，对话式创作图片最自然的方式",
+    "website": "https://openai.com/dall-e",
+    "pricing": [
+      {"plan": "ChatGPT Plus 内含", "price": 20, "period": "月", "features": ["DALL-E 4 无限生成", "图像编辑", "风格控制"]},
+      {"plan": "API 调用", "price": 0.04, "period": "张", "features": ["1024x1024 标准质量", "程序化调用"]}
+    ],
+    "pros": ["与 ChatGPT 深度集成，用自然对话描述就能生成图片", "文字渲染能力业界最强，海报和 Logo 设计实用", "支持上传图片进行编辑和风格转换", "DALL-E 4 在写实风格上有显著提升"],
+    "cons": ["独立使用需订阅 ChatGPT Plus（$20/月）", "艺术风格多样性不如 Midjourney", "生成速度相对较慢，复杂场景需等待"],
+    "bestFor": ["已订阅 ChatGPT Plus 想顺便生成图片的用户", "需要图片中包含准确文字的设计需求", "用对话迭代修改图片的非设计专业人士"],
+    "notFor": ["追求极致艺术美感的专业设计师", "需要大批量生成图片的商业用户"],
+    "keyFeatures": {"对话式生成": "在 ChatGPT 中用自然语言描述即可生成和修改图片", "文字渲染": "能在图片中准确渲染中英文文字", "图像编辑": "上传已有图片进行局部修改或风格转换", "风格记忆": "可以保持系列图片的一致视觉风格"},
+    "freeLimit": "ChatGPT 免费版无 DALL-E 权限，需 Plus 订阅",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "company": "Stability AI",
+    "category": "ai-image",
+    "tagline": "完全开源可本地部署的图像生成模型，自由度和可控性无人能及",
+    "website": "https://stability.ai",
+    "pricing": [
+      {"plan": "开源免费", "price": 0, "period": "永久", "features": ["本地部署无限生成", "完全自定义", "无内容审核"]},
+      {"plan": "Stability API", "price": 0.03, "period": "张", "features": ["云端调用", "无需本地 GPU"]}
+    ],
+    "pros": ["完全免费开源，本地部署无任何使用限制", "ControlNet/LoRA 等扩展实现精确姿态和风格控制", "庞大的社区模型库（Civitai），各种风格应有尽有", "可训练自定义模型，实现品牌一致性"],
+    "cons": ["本地部署需要高端显卡（建议 8GB+ VRAM）", "学习曲线陡峭，需要理解采样器、CFG 等参数", "默认出图质量需要大量调参才能媲美商业产品"],
+    "bestFor": ["有 GPU 且想无限免费生成图片的技术用户", "需要训练特定风格/人物 LoRA 的专业用户", "对内容审核有特殊需求的创作者"],
+    "notFor": ["没有独立显卡的普通用户", "不想折腾技术只想快速出图的设计师"],
+    "keyFeatures": {"本地部署": "在自己电脑上运行，数据完全私有，无使用限制", "ControlNet": "通过骨骼图、深度图等精确控制生成图像的构图", "LoRA 训练": "用少量图片训练特定风格或人物的轻量模型", "ComfyUI": "节点式工作流编辑器，实现复杂的自动化生成流程"},
+    "freeLimit": "完全免费，但需要自备 GPU 硬件",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "company": "Perplexity AI",
+    "category": "ai-chat",
+    "tagline": "实时联网的 AI 搜索引擎，每个回答都附带可验证的信息来源",
+    "website": "https://perplexity.ai",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["无限快速搜索", "每天 5 次 Pro 搜索"]},
+      {"plan": "Pro", "price": 20, "period": "月", "features": ["无限 Pro 搜索", "文件上传分析", "API 额度"]}
+    ],
+    "pros": ["每个回答都标注信息来源，可一键验证准确性", "实时搜索最新信息，不存在知识截止问题", "Pro 搜索会追问澄清问题，确保理解你的真实需求", "界面简洁无广告，比传统搜索引擎体验好得多"],
+    "cons": ["深度分析和创意写作能力不如 ChatGPT/Claude", "免费版 Pro 搜索次数有限（每天 5 次）", "不适合需要长对话上下文的复杂任务"],
+    "bestFor": ["需要快速获取带来源的准确信息的研究人员", "厌倦了 Google 广告想要干净搜索体验的用户", "需要追踪最新新闻和行业动态的专业人士"],
+    "notFor": ["需要深度创意写作或代码生成的用户", "需要处理长文档的专业场景"],
+    "keyFeatures": {"来源引用": "每个回答都附带编号来源链接，支持一键跳转验证", "Pro 搜索": "多步推理搜索，自动追问并综合多个来源", "Spaces": "创建主题空间，积累特定领域的研究资料", "多模型": "Pro 版可选 GPT-4o、Claude、Gemini 等模型"},
+    "freeLimit": "无限快速搜索 + 每天 5 次 Pro 深度搜索",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "claude-code",
+    "name": "Claude Code",
+    "company": "Anthropic",
+    "category": "ai-coding",
+    "tagline": "在终端中运行的 AI 编程 Agent，直接读写文件和执行命令",
+    "website": "https://docs.anthropic.com/en/docs/claude-code",
+    "pricing": [
+      {"plan": "Developer", "price": 17, "period": "月", "features": ["Claude Sonnet 4", "基础用量"]},
+      {"plan": "Pro（通过 Claude Pro）", "price": 100, "period": "月", "features": ["Claude Opus 4.7", "更高用量", "优先访问"]},
+      {"plan": "Max", "price": 200, "period": "月", "features": ["Opus 4.7 无限", "最高优先级"]}
+    ],
+    "pros": ["直接在终端运行，无需切换编辑器，适合 CLI 工作流", "能自主读取项目文件、执行命令、运行测试", "Opus 4.7 模型在复杂代码推理上表现顶尖", "支持 MCP 协议扩展外部工具集成"],
+    "cons": ["纯命令行界面，没有图形化代码差异对比", "按 API 用量计费，重度使用成本较高", "需要一定终端使用经验，对新手不友好"],
+    "bestFor": ["习惯终端工作流的高级开发者", "需要 AI 自主完成复杂多步骤编程任务", "想在 CI/CD 中集成 AI 编程能力的团队"],
+    "notFor": ["偏好图形界面的初级开发者", "只需要简单代码补全的轻度用户"],
+    "keyFeatures": {"终端原生": "在命令行中直接与 AI 对话，无需离开终端环境", "自主 Agent": "能自动读文件、写代码、运行测试、修复错误", "项目理解": "自动分析项目结构和依赖关系", "MCP 扩展": "通过 MCP 协议连接数据库、API 等外部资源"},
+    "freeLimit": "无免费版，最低 $17/月起",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "windsurf",
+    "name": "Windsurf",
+    "company": "Codeium",
+    "category": "ai-coding",
+    "tagline": "主打流畅编码体验的 AI 编辑器，Cascade 流式交互让编程如行云流水",
+    "website": "https://windsurf.com",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["基础补全", "有限 AI 命令"]},
+      {"plan": "Pro", "price": 20, "period": "月", "features": ["无限 Flows", "Cascade Agent", "多模型选择"]}
+    ],
+    "pros": ["Cascade 流式交互体验流畅，AI 修改实时可见", "免费版功能比 Cursor 免费版更慷慨", "界面设计简洁优雅，上手门槛低", "Flows 功能自动追踪你的编码意图并主动建议"],
+    "cons": ["Agent 能力在复杂项目中不如 Cursor Composer 稳定", "插件生态不如 VS Code 原生丰富", "企业级功能和团队协作还在完善中"],
+    "bestFor": ["想要免费 AI 编程工具的个人开发者", "偏好流畅交互体验而非功能堆砌的用户", "从零开始学习 AI 辅助编程的新手"],
+    "notFor": ["需要处理超大型项目的资深工程师", "依赖特定 VS Code 插件的开发者"],
+    "keyFeatures": {"Cascade": "流式 Agent 交互，实时展示 AI 的思考和修改过程", "Flows": "自动感知编码上下文，主动提供相关建议", "多模型": "支持 Claude、GPT-4o 等多种模型切换", "内置终端": "AI 可直接在集成终端中执行命令"},
+    "freeLimit": "基础补全无限 + 每月有限次 AI 高级命令",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "company": "Jasper AI",
+    "category": "ai-chat",
+    "tagline": "专为企业营销团队打造的 AI 内容平台，品牌一致性是核心卖点",
+    "website": "https://jasper.ai",
+    "pricing": [
+      {"plan": "Creator", "price": 49, "period": "月", "features": ["1 个品牌声音", "SEO 模式", "浏览器扩展"]},
+      {"plan": "Pro", "price": 69, "period": "月", "features": ["3 个品牌声音", "协作功能", "AI 图像"]},
+      {"plan": "Business", "price": 0, "period": "定制", "features": ["无限品牌声音", "API 访问", "专属客户经理"]}
+    ],
+    "pros": ["品牌声音功能确保所有内容保持统一调性", "50+ 营销专用模板（广告文案、邮件、社媒帖子）", "团队协作和审批工作流完善", "SEO 模式集成 Surfer SEO 数据优化内容"],
+    "cons": ["价格偏高，最低 $49/月起步", "通用写作能力不如 ChatGPT/Claude", "对中文营销场景的模板支持有限"],
+    "bestFor": ["需要大量产出品牌一致内容的营销团队", "管理多个品牌/客户的广告代理公司", "重视 SEO 优化的内容营销人员"],
+    "notFor": ["个人博主或自由撰稿人（性价比低）", "需要通用 AI 助手的普通用户"],
+    "keyFeatures": {"品牌声音": "训练 AI 学习品牌调性，确保所有输出风格一致", "营销模板": "50+ 场景化模板覆盖广告、邮件、社媒等", "SEO 模式": "基于搜索数据优化内容的关键词和结构", "团队协作": "多人编辑、审批流程、内容日历管理"},
+    "freeLimit": "无免费版，提供 7 天免费试用",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "company": "Notion",
+    "category": "ai-chat",
+    "tagline": "嵌入 Notion 工作空间的 AI 助手，让知识库自己回答问题",
+    "website": "https://notion.so/product/ai",
+    "pricing": [
+      {"plan": "AI 附加功能", "price": 10, "period": "月/人", "features": ["AI 写作辅助", "Q&A 知识库问答", "自动填充数据库"]}
+    ],
+    "pros": ["直接基于你的 Notion 文档回答问题，无需复制粘贴", "AI 写作与 Notion 编辑器深度融合，体验自然", "能自动总结会议记录、提取待办事项", "数据库自动填充功能大幅减少手动录入"],
+    "cons": ["必须是 Notion 用户才能使用，无法独立运行", "AI 能力局限于 Notion 内容，无法联网搜索", "每人每月 $10 的附加费用对大团队成本不低"],
+    "bestFor": ["已经重度使用 Notion 管理知识库的团队", "需要从大量文档中快速找到答案的项目经理", "想要自动化 Notion 数据库管理的用户"],
+    "notFor": ["不使用 Notion 的用户", "需要通用 AI 对话能力的场景"],
+    "keyFeatures": {"Q&A 问答": "用自然语言向整个工作空间提问，AI 从文档中找答案", "AI 写作": "在任何页面中调用 AI 辅助写作、翻译、总结", "数据库自动填充": "AI 根据内容自动填写数据库属性字段", "会议总结": "自动从会议记录中提取要点和行动项"},
+    "freeLimit": "Notion 免费版不含 AI，需额外付费 $10/月",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "runway",
+    "name": "Runway",
+    "company": "Runway ML",
+    "category": "ai-image",
+    "tagline": "AI 视频生成领域的先驱，Gen-4 让文字和图片变成电影级视频",
+    "website": "https://runwayml.com",
+    "pricing": [
+      {"plan": "Basic", "price": 15, "period": "月", "features": ["125 credits/月", "720p 生成", "3 个项目"]},
+      {"plan": "Standard", "price": 35, "period": "月", "features": ["625 credits/月", "1080p 生成", "无限项目"]},
+      {"plan": "Pro", "price": 95, "period": "月", "features": ["2250 credits/月", "4K 生成", "优先队列"]}
+    ],
+    "pros": ["Gen-4 视频质量业界领先，运动自然流畅", "支持文字、图片、视频多种输入方式生成视频", "Motion Brush 可精确控制画面中特定区域的运动", "专业的视频编辑工具集（绿幕、修复、慢动作）"],
+    "cons": ["Credits 消耗快，生成几段视频就用完月度额度", "生成时间较长，一段 10 秒视频需等待数分钟", "价格相对较高，轻度用户性价比低"],
+    "bestFor": ["需要快速制作概念视频的广告创意团队", "短视频创作者寻找独特视觉素材", "影视前期用 AI 快速验证镜头创意"],
+    "notFor": ["需要生成长视频（1分钟以上）的用户", "预算有限的个人创作者"],
+    "keyFeatures": {"Gen-4": "最新一代视频生成模型，支持角色和场景一致性", "Motion Brush": "用画笔指定画面中哪些区域如何运动", "多模态输入": "文字描述、参考图片、视频片段都可作为生成输入", "视频编辑套件": "AI 绿幕抠像、超分辨率、帧插值等专业工具"},
+    "freeLimit": "注册送 125 credits 体验，用完需付费",
+    "lastUpdated": "2026-05-21"
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "company": "ElevenLabs",
+    "category": "ai-chat",
+    "tagline": "最逼真的 AI 语音合成平台，克隆任何声音只需几分钟音频",
+    "website": "https://elevenlabs.io",
+    "pricing": [
+      {"plan": "Free", "price": 0, "period": "月", "features": ["10000 字符/月", "3 个自定义声音", "基础声音"]},
+      {"plan": "Starter", "price": 5, "period": "月", "features": ["30000 字符/月", "10 个自定义声音", "商用授权"]},
+      {"plan": "Creator", "price": 22, "period": "月", "features": ["100000 字符/月", "30 个声音", "专业声音克隆"]},
+      {"plan": "Pro", "price": 99, "period": "月", "features": ["500000 字符/月", "160 个声音", "API 高并发"]}
+    ],
+    "pros": ["语音自然度业界最高，几乎无法区分真人和 AI", "声音克隆只需 1-3 分钟音频样本即可高质量复制", "支持 32 种语言，跨语言保持声音特征", "实时语音转换和对话式 AI 语音"],
+    "cons": ["免费版字符数极少，只够简单体验", "声音克隆存在伦理争议和滥用风险", "中文语音质量虽好但不如英文自然"],
+    "bestFor": ["有声书和播客制作者需要稳定的 AI 配音", "多语言内容创作者需要保持统一声音形象", "游戏和动画项目需要大量角色配音"],
+    "notFor": ["只需要简单 TTS 的基础场景（系统自带就够）", "对 AI 语音伦理有顾虑的用户"],
+    "keyFeatures": {"声音克隆": "上传 1-3 分钟音频即可克隆任何声音", "多语言": "32 种语言合成，保持声音特征跨语言一致", "实时转换": "实时将你的声音转换为其他声音", "对话式 AI": "低延迟语音 API，适合构建语音对话应用"},
+    "freeLimit": "每月 10000 字符（约 5 分钟音频）+ 3 个声音",
+    "lastUpdated": "2026-05-21"
+  }
+]
