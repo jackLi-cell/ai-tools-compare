@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "chatgpt-free",
+    "tool": "chatgpt",
+    "title": "ChatGPT 免费版够用吗？2026 年完整分析",
+    "description": "ChatGPT 免费版使用 GPT-4o mini 模型，功能有限但对轻度用户可能足够。我们详细对比免费版和 Plus 版的差异。",
+    "freeFeatures": ["GPT-4o mini 模型", "基础对话", "有限的图像生成", "基础搜索", "有限的文件上传"],
+    "paidFeatures": ["GPT-4o 和 o1 模型", "无限图像生成 (DALL-E 4)", "高级数据分析", "GPTs 商店完整访问", "语音对话", "优先访问新功能"],
+    "limitations": ["高峰期响应慢", "每 3 小时消息数限制", "无 o1 推理模型", "图像生成次数极少", "无 Canvas 高级编辑"],
+    "verdict": "轻度使用够用",
+    "verdictDetail": "如果你只是偶尔问问题、写短文案，免费版基本够用。但如果你需要图像生成、高级推理、或频繁使用，Plus 版 $20/月的投入非常值得。",
+    "upgradeWorth": true,
+    "upgradeReason": "Plus 版解锁 GPT-4o 完整能力、无限图像生成和 o1 推理模型，对重度用户性价比极高",
+    "freeAlternatives": ["DeepSeek（完全免费，推理能力强）", "Gemini（免费版 2.5 Flash 无限使用）", "Kimi（免费版 200 万字上下文）"]
+  },
+  {
+    "slug": "cursor-free",
+    "tool": "cursor",
+    "title": "Cursor 免费版够用吗？2026 年完整分析",
+    "description": "Cursor 免费版提供有限的 AI 补全和对话次数，对于评估工具足够，但日常开发可能不够。",
+    "freeFeatures": ["2000 次代码补全/月", "50 次慢速 Premium 请求/月", "基础 Tab 补全", "VS Code 兼容"],
+    "paidFeatures": ["无限代码补全", "500 次快速 Premium 请求/月", "Composer Agent 模式", "多文件编辑", "自定义模型选择"],
+    "limitations": ["补全次数用完后无 AI 辅助", "无 Composer Agent", "仅慢速模型", "无多文件编辑能力"],
+    "verdict": "评估够用，日常不够",
+    "verdictDetail": "免费版适合试用和评估 Cursor 的能力，但 2000 次补全对日常开发远远不够（通常 1-2 天就用完）。如果你决定使用 Cursor 作为主力 IDE，Pro 版是必须的。",
+    "upgradeWorth": true,
+    "upgradeReason": "Pro 版 $20/月解锁无限补全和 Composer Agent，对开发效率的提升远超价格",
+    "freeAlternatives": ["Windsurf（免费版更慷慨）", "Codeium（免费版无限补全）", "GitHub Copilot Free（学生和开源免费）"]
+  },
+  {
+    "slug": "gemini-free",
+    "tool": "gemini",
+    "title": "Gemini 免费版够用吗？2026 年完整分析",
+    "description": "Gemini 免费版使用 2.5 Flash 模型，能力不弱且无明显用量限制，是免费 AI 中体验最好的之一。",
+    "freeFeatures": ["Gemini 2.5 Flash 模型", "基本无限对话", "Google 搜索集成", "基础图像理解", "Gmail/Docs 基础集成"],
+    "paidFeatures": ["Gemini 2.5 Pro 模型", "100 万 token 上下文", "深度研究模式", "Gems 自定义助手", "2TB Google 存储", "Google 全家桶深度集成"],
+    "limitations": ["仅 Flash 模型（非最强）", "上下文窗口较小", "无深度研究模式", "Google 集成深度有限"],
+    "verdict": "日常使用完全够用",
+    "verdictDetail": "Gemini 免费版是目前最慷慨的免费 AI 之一。2.5 Flash 模型能力不弱，基本无用量限制，日常对话、搜索、写作都能胜任。除非你需要处理超长文档或使用深度研究功能，否则免费版足够。",
+    "upgradeWorth": false,
+    "upgradeReason": "Advanced 版 $19.99/月主要优势是 Pro 模型和 2TB 存储，对大多数用户免费版已足够",
+    "freeAlternatives": ["DeepSeek（完全免费，推理更强）", "ChatGPT 免费版（GPT-4o mini）", "Kimi（超长上下文免费）"]
+  },
+  {
+    "slug": "copilot-free",
+    "tool": "github-copilot",
+    "title": "GitHub Copilot 免费版够用吗？2026 年完整分析",
+    "description": "GitHub Copilot Free 提供有限的代码补全和对话，适合轻度使用和学习，但专业开发需要付费版。",
+    "freeFeatures": ["2000 次代码补全/月", "50 次对话/月", "VS Code 和 JetBrains 支持", "基础代码建议"],
+    "paidFeatures": ["无限代码补全", "无限对话", "Agent 模式", "多模型选择", "自定义指令", "知识库集成"],
+    "limitations": ["补全次数有限", "对话次数极少", "无 Agent 模式", "无自定义指令"],
+    "verdict": "学习够用，工作不够",
+    "verdictDetail": "免费版适合学生学习编程或偶尔写代码的用户。但对于全职开发者，2000 次补全和 50 次对话远远不够日常使用，Individual 版 $10/月是性价比极高的选择。",
+    "upgradeWorth": true,
+    "upgradeReason": "$10/月解锁无限补全和对话，是所有 AI 编程工具中最便宜的付费方案",
+    "freeAlternatives": ["Codeium（免费版无限补全）", "Windsurf（免费版更慷慨）", "Tabnine（免费版基础补全）"]
+  },
+  {
+    "slug": "canva-ai-free",
+    "tool": "canva-ai",
+    "title": "Canva AI 免费版够用吗？2026 年完整分析",
+    "description": "Canva 免费版功能已经很强大，AI 功能有限制但基础设计需求完全能满足。",
+    "freeFeatures": ["基础设计编辑器", "25 万+ 免费模板", "有限的 Magic Studio AI 功能", "5GB 存储", "基础协作"],
+    "paidFeatures": ["完整 Magic Studio（AI 生成/擦除/扩展）", "1 亿+ 素材库", "品牌套件", "1TB 存储", "背景移除", "Magic Resize"],
+    "limitations": ["AI 生成次数有限", "无背景移除", "无 Magic Resize", "素材库受限", "无品牌套件"],
+    "verdict": "基础设计够用，AI 功能不够",
+    "verdictDetail": "Canva 免费版的基础设计功能已经很强大，模板丰富，日常社媒图和简单设计完全够用。但如果你需要 AI 生成、背景移除、品牌套件等高级功能，Pro 版 $12.99/月值得投入。",
+    "upgradeWorth": true,
+    "upgradeReason": "Pro 版解锁完整 AI 功能和 1 亿素材库，对频繁做设计的用户效率提升明显",
+    "freeAlternatives": ["Remove.bg（免费抠图预览）", "Figma（免费版 3 个文件）", "Photopea（免费在线 PS 替代）"]
+  }
+]

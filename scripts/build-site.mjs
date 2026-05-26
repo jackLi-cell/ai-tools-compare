@@ -23,6 +23,8 @@ const tools = JSON.parse(readFileSync(join(DATA, 'tools.json'), 'utf-8'));
 const comparisons = JSON.parse(readFileSync(join(DATA, 'comparisons.json'), 'utf-8'));
 const alternatives = JSON.parse(readFileSync(join(DATA, 'alternatives.json'), 'utf-8'));
 const categories = JSON.parse(readFileSync(join(DATA, 'categories.json'), 'utf-8'));
+const bestData = existsSync(join(DATA, 'best.json')) ? JSON.parse(readFileSync(join(DATA, 'best.json'), 'utf-8')) : [];
+const freePlans = existsSync(join(DATA, 'free-plans.json')) ? JSON.parse(readFileSync(join(DATA, 'free-plans.json'), 'utf-8')) : [];
 
 // Helper: tool lookup
 const toolMap = Object.fromEntries(tools.map(t => [t.slug, t]));
@@ -86,6 +88,7 @@ function layout(pagePath, { title, description, canonical, ogType = 'website', j
 <meta name="twitter:title" content="${title}">
 <meta name="twitter:description" content="${description}">
 ${jsonLd}
+<link rel="icon" href="${prefix}favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="${cssPath}">
 </head>
 <body>
@@ -94,8 +97,15 @@ ${jsonLd}
 <a href="${prefix}index.html" class="site-logo">${SITE_NAME}</a>
 <nav class="site-nav">
 <a href="${prefix}index.html">首页</a>
-${categories.map(c => `<a href="${prefix}category/${c.slug}.html">${c.name}</a>`).join('\n')}
+${categories.slice(0, 8).map(c => `<a href="${prefix}category/${c.slug}.html">${c.name}</a>`).join('\n')}
+<div class="nav-more" id="navMore">
+<button class="nav-more-btn" type="button" onclick="var el=document.getElementById('navMore');el.classList.toggle('open')">更多 ▾</button>
+<div class="nav-dropdown">
+${categories.slice(8).map(c => `<a href="${prefix}category/${c.slug}.html">${c.name}</a>`).join('\n')}
+<a href="${prefix}best/ai-coding-tools.html">推荐</a>
 <a href="${prefix}about.html">关于</a>
+</div>
+</div>
 </nav>
 </div>
 </header>
@@ -134,6 +144,7 @@ ${comparisons.slice(0, 4).map(c => `<li><a href="${prefix}compare/${c.slug}.html
 </div>
 </div>
 </footer>
+<script>document.addEventListener('click',function(e){var m=document.getElementById('navMore');if(m&&!m.contains(e.target))m.classList.remove('open')})</script>
 <script src="${jsPath}"></script>
 </body>
 </html>`;
@@ -209,6 +220,34 @@ ${tools.slice(0, 6).map(t => toolCard(t, pagePath)).join('\n')}
 
 <section class="section" style="background:var(--gray-50)">
 <div class="container">
+<h2 class="section-title">场景推荐</h2>
+<p style="color:var(--gray-600);margin-bottom:24px">根据不同使用场景，为你推荐最合适的 AI 工具</p>
+<div class="compare-grid">
+${bestData.map(b => `<a href="best/${b.slug}.html" class="compare-card">
+<span class="compare-card-title">${b.title.replace(/2026 年/, '')}</span>
+</a>`).join('\n')}
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<h2 class="section-title">免费版够用吗？</h2>
+<p style="color:var(--gray-600);margin-bottom:24px">深度分析热门 AI 工具的免费版，帮你决定是否值得付费</p>
+<div class="compare-grid">
+${freePlans.map(fp => {
+  const t = toolMap[fp.tool];
+  return `<a href="free/${fp.slug}.html" class="compare-card">
+<span class="compare-vs">${t ? t.name : fp.tool}</span>
+<span class="compare-card-title">${fp.verdict}</span>
+</a>`;
+}).join('\n')}
+</div>
+</div>
+</section>
+
+<section class="section" style="background:var(--gray-50)">
+<div class="container">
 <h2 class="section-title">常见问题</h2>
 <div class="faq-list">
 <div class="faq-item">
@@ -247,7 +286,7 @@ function toolCard(t, fromPage) {
   const cat = categories.find(c => c.slug === t.category);
   return `<a href="${prefix}tools/${t.slug}.html" class="tool-card">
 <div class="tool-card-header">
-<div class="tool-card-logo">${t.name.charAt(0)}</div>
+<div class="tool-card-logo">${t.icon ? `<img src="${t.icon}" alt="${t.name}" width="40" height="40" loading="lazy">` : t.name.charAt(0)}</div>
 <div>
 <div class="tool-card-name">${t.name}</div>
 <div class="tool-card-company">${t.company}</div>
@@ -281,7 +320,7 @@ function buildToolPages() {
 <div class="tool-detail">
 <div class="container">
 <div class="tool-detail-header">
-<div class="tool-detail-logo">${t.name.charAt(0)}</div>
+<div class="tool-detail-logo">${t.icon ? `<img src="${t.icon}" alt="${t.name}" width="64" height="64" loading="lazy">` : t.name.charAt(0)}</div>
 <div class="tool-detail-info">
 <h1>${t.name}</h1>
 <p class="company">${t.company}</p>
@@ -498,6 +537,119 @@ ${a.consVsOriginal.map(c => `<li>${c}</li>`).join('\n')}
   }
 }
 
+// ============ BEST (SCENE RECOMMENDATION) PAGES ============
+function buildBestPages() {
+  for (const best of bestData) {
+    const pagePath = `best/${best.slug}.html`;
+    const prefix = getPrefix(pagePath);
+
+    const jsonLd = `<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ItemList","name":"${best.title}","description":"${best.description}","numberOfItems":${best.rankings.length},"itemListElement":${JSON.stringify(best.rankings.map((r, i) => ({"@type":"ListItem","position":i+1,"name":toolMap[r.slug]?.name||r.slug,"description":r.reason})))}}
+</script>`;
+
+    const bodyContent = `
+<div class="breadcrumb"><div class="container"><a href="${prefix}index.html">首页</a><span>/</span>推荐<span>/</span>${best.title.split('年')[1] || best.title}</div></div>
+<div class="tool-detail">
+<div class="container">
+<h1 style="font-size:28px;margin-bottom:16px">${best.title}</h1>
+<p style="font-size:15px;color:var(--gray-600);margin-bottom:32px">${best.description}</p>
+
+<div class="best-rankings">
+${best.rankings.map((r, i) => {
+  const t = toolMap[r.slug];
+  if (!t) return '';
+  const medal = i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : `#${i+1}`;
+  return `<div class="ranking-card">
+<div class="ranking-header">
+<span class="ranking-medal">${medal}</span>
+<div class="ranking-info">
+<h3><a href="${prefix}tools/${t.slug}.html">${t.name}</a></h3>
+<p class="ranking-company">${t.company}</p>
+</div>
+<div class="ranking-score"><span class="score-number">${r.score}</span><span class="score-label">/100</span></div>
+</div>
+<p class="ranking-reason">${r.reason}</p>
+<p class="ranking-tagline">${t.tagline}</p>
+<div class="ranking-footer">
+<a href="${prefix}tools/${t.slug}.html" class="btn btn-sm">查看详情</a>
+<a href="${t.website}" target="_blank" rel="nofollow noopener" class="btn btn-sm btn-outline">访问官网</a>
+</div>
+</div>`;
+}).join('\n')}
+</div>
+</div>
+</div>`;
+
+    writePage(pagePath, layout(pagePath, {
+      title: best.title,
+      description: best.description,
+      ogType: 'article',
+      jsonLd,
+      bodyContent
+    }));
+  }
+}
+
+// ============ FREE PLAN ANALYSIS PAGES ============
+function buildFreePlanPages() {
+  for (const fp of freePlans) {
+    const pagePath = `free/${fp.slug}.html`;
+    const prefix = getPrefix(pagePath);
+    const t = toolMap[fp.tool];
+
+    const bodyContent = `
+<div class="breadcrumb"><div class="container"><a href="${prefix}index.html">首页</a><span>/</span>免费版分析<span>/</span>${t ? t.name : fp.tool}</div></div>
+<div class="tool-detail">
+<div class="container">
+<h1 style="font-size:28px;margin-bottom:16px">${fp.title}</h1>
+<p style="font-size:15px;color:var(--gray-600);margin-bottom:32px">${fp.description}</p>
+
+<div class="verdict-box" style="margin-bottom:32px">
+<strong>结论：${fp.verdict}</strong>
+<p style="margin-top:8px">${fp.verdictDetail}</p>
+</div>
+
+<h2 class="section-title">免费版 vs 付费版对比</h2>
+<div class="best-for-grid" style="margin-bottom:32px">
+<div class="best-for-card">
+<h3 style="color:var(--success)">免费版包含</h3>
+${fp.freeFeatures.map(f => `<p>✓ ${f}</p>`).join('\n')}
+</div>
+<div class="best-for-card">
+<h3 style="color:var(--primary)">付费版额外功能</h3>
+${fp.paidFeatures.map(f => `<p>★ ${f}</p>`).join('\n')}
+</div>
+</div>
+
+<h2 class="section-title">免费版主要限制</h2>
+<ul class="cons-list" style="margin-bottom:32px">
+${fp.limitations.map(l => `<li>${l}</li>`).join('\n')}
+</ul>
+
+<h2 class="section-title">是否值得升级？</h2>
+<div class="verdict-box" style="margin-bottom:32px;background:${fp.upgradeWorth ? 'var(--primary-light)' : 'var(--gray-50)'}">
+<strong>${fp.upgradeWorth ? '值得升级' : '免费版足够'}</strong>
+<p style="margin-top:8px">${fp.upgradeReason}</p>
+</div>
+
+<h2 class="section-title">免费替代方案</h2>
+<ul style="margin-bottom:32px">
+${fp.freeAlternatives.map(a => `<li style="margin-bottom:8px">${a}</li>`).join('\n')}
+</ul>
+
+${t ? `<p><a href="${prefix}tools/${t.slug}.html" class="btn btn-primary">查看 ${t.name} 完整评测 →</a></p>` : ''}
+</div>
+</div>`;
+
+    writePage(pagePath, layout(pagePath, {
+      title: fp.title,
+      description: fp.description,
+      ogType: 'article',
+      bodyContent
+    }));
+  }
+}
+
 // ============ CATEGORY PAGES ============
 function buildCategoryPages() {
   for (const cat of categories) {
@@ -640,6 +792,16 @@ function buildSitemap() {
     urls.push({ loc: cleanUrl(`category/${c.slug}.html`), priority: '0.7', changefreq: 'weekly', lastmod: NOW });
   }
 
+  // Best pages
+  for (const b of bestData) {
+    urls.push({ loc: cleanUrl(`best/${b.slug}.html`), priority: '0.7', changefreq: 'weekly', lastmod: NOW });
+  }
+
+  // Free plan pages
+  for (const fp of freePlans) {
+    urls.push({ loc: cleanUrl(`free/${fp.slug}.html`), priority: '0.6', changefreq: 'weekly', lastmod: NOW });
+  }
+
   // Trust pages
   urls.push({ loc: cleanUrl('about.html'), priority: '0.3', changefreq: 'monthly' });
   urls.push({ loc: cleanUrl('privacy.html'), priority: '0.2', changefreq: 'monthly' });
@@ -666,16 +828,25 @@ Sitemap: ${DOMAIN}/sitemap.xml`;
 }
 
 // ============ COPY ASSETS ============
+function copyAssetsRecursive(src, dest) {
+  mkdirSync(dest, { recursive: true });
+  const entries = readdirSync(src, { withFileTypes: true });
+  for (const entry of entries) {
+    const srcPath = join(src, entry.name);
+    const destPath = join(dest, entry.name);
+    if (entry.isDirectory()) {
+      copyAssetsRecursive(srcPath, destPath);
+    } else {
+      writeFileSync(destPath, readFileSync(srcPath));
+    }
+  }
+}
+
 function copyAssets() {
   const assetsOut = join(OUT, 'assets');
-  mkdirSync(assetsOut, { recursive: true });
   const srcAssets = join(SITE_SRC, 'assets');
   if (existsSync(srcAssets)) {
-    const files = readdirSync(srcAssets);
-    for (const file of files) {
-      const content = readFileSync(join(srcAssets, file));
-      writeFileSync(join(assetsOut, file), content);
-    }
+    copyAssetsRecursive(srcAssets, assetsOut);
   }
 }
 
@@ -697,6 +868,10 @@ try {
   buildComparePages();
   console.log('  Building alternative pages...');
   buildAlternativePages();
+  console.log('  Building best (recommendation) pages...');
+  buildBestPages();
+  console.log('  Building free plan analysis pages...');
+  buildFreePlanPages();
   console.log('  Building category pages...');
   buildCategoryPages();
   console.log('  Building trust pages...');
@@ -710,13 +885,15 @@ try {
 }
 
 // Count pages
-const pageCount = 1 + tools.length + comparisons.length + alternatives.length + categories.length + 4;
+const pageCount = 1 + tools.length + comparisons.length + alternatives.length + categories.length + bestData.length + freePlans.length + 4;
 console.log(`\nBuild complete!`);
 console.log(`Total pages: ${pageCount}`);
 console.log(`  - Home: 1`);
 console.log(`  - Tool pages: ${tools.length}`);
 console.log(`  - Comparison pages: ${comparisons.length}`);
 console.log(`  - Alternative pages: ${alternatives.length}`);
+console.log(`  - Best (recommendation) pages: ${bestData.length}`);
+console.log(`  - Free plan pages: ${freePlans.length}`);
 console.log(`  - Category pages: ${categories.length}`);
 console.log(`  - Trust pages: 4`);
 console.log(`  - sitemap.xml + robots.txt`);

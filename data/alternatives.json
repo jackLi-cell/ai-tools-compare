@@ -9,36 +9,72 @@
         "slug": "dall-e",
         "name": "DALL-E 4",
         "reason": "如果你已订阅 ChatGPT Plus，DALL-E 4 是零额外成本的选择，文字渲染能力更强",
-        "prosVsOriginal": ["文字渲染准确", "对话式交互更自然", "含在 ChatGPT Plus 中无额外费用"],
-        "consVsOriginal": ["艺术风格多样性不如 MJ", "社区生态较小"]
+        "prosVsOriginal": [
+          "文字渲染准确",
+          "对话式交互更自然",
+          "含在 ChatGPT Plus 中无额外费用"
+        ],
+        "consVsOriginal": [
+          "艺术风格多样性不如 MJ",
+          "社区生态较小"
+        ]
       },
       {
         "slug": "stable-diffusion",
         "name": "Stable Diffusion",
         "reason": "完全免费开源，适合有 GPU 且想要无限生成和精确控制的技术用户",
-        "prosVsOriginal": ["完全免费无限生成", "ControlNet 精确控制", "可训练自定义模型"],
-        "consVsOriginal": ["需要高端 GPU", "学习曲线陡峭", "默认质量需调参"]
+        "prosVsOriginal": [
+          "完全免费无限生成",
+          "ControlNet 精确控制",
+          "可训练自定义模型"
+        ],
+        "consVsOriginal": [
+          "需要高端 GPU",
+          "学习曲线陡峭",
+          "默认质量需调参"
+        ]
       },
       {
         "name": "Adobe Firefly",
         "website": "https://firefly.adobe.com",
         "reason": "Adobe 生态用户的最佳选择，生成的图片可商用且与 Photoshop 无缝集成",
-        "prosVsOriginal": ["商用版权清晰", "与 PS/AI 深度集成", "结构参考功能强大"],
-        "consVsOriginal": ["创意风格偏保守", "需要 Adobe 订阅"]
+        "prosVsOriginal": [
+          "商用版权清晰",
+          "与 PS/AI 深度集成",
+          "结构参考功能强大"
+        ],
+        "consVsOriginal": [
+          "创意风格偏保守",
+          "需要 Adobe 订阅"
+        ]
       },
       {
         "name": "Leonardo.ai",
         "website": "https://leonardo.ai",
         "reason": "免费额度慷慨且支持模型训练，适合游戏和 3D 资产生成",
-        "prosVsOriginal": ["有免费版每天 150 tokens", "支持自定义模型训练", "3D 纹理生成"],
-        "consVsOriginal": ["整体美学不如 MJ", "高级功能需付费"]
+        "prosVsOriginal": [
+          "有免费版每天 150 tokens",
+          "支持自定义模型训练",
+          "3D 纹理生成"
+        ],
+        "consVsOriginal": [
+          "整体美学不如 MJ",
+          "高级功能需付费"
+        ]
       },
       {
         "name": "Ideogram",
         "website": "https://ideogram.ai",
         "reason": "文字渲染和 Logo 设计能力突出，有免费版可体验",
-        "prosVsOriginal": ["文字渲染极其准确", "有免费版", "Logo 和排版设计出色"],
-        "consVsOriginal": ["艺术风格有限", "社区规模较小"]
+        "prosVsOriginal": [
+          "文字渲染极其准确",
+          "有免费版",
+          "Logo 和排版设计出色"
+        ],
+        "consVsOriginal": [
+          "艺术风格有限",
+          "社区规模较小"
+        ]
       }
     ]
   },
@@ -52,36 +88,73 @@
         "slug": "claude",
         "name": "Claude",
         "reason": "如果你经常处理长文档或需要精确的格式输出，Claude 的 200K 上下文和指令遵循能力更强",
-        "prosVsOriginal": ["200K 超长上下文", "指令遵循更精确", "代码重构能力更强"],
-        "consVsOriginal": ["无图像生成", "免费版用量极少", "无插件商店"]
+        "prosVsOriginal": [
+          "200K 超长上下文",
+          "指令遵循更精确",
+          "代码重构能力更强"
+        ],
+        "consVsOriginal": [
+          "无图像生成",
+          "免费版用量极少",
+          "无插件商店"
+        ]
       },
       {
         "slug": "gemini",
         "name": "Gemini",
         "reason": "Google 用户的最佳选择，免费版质量高且与 Gmail/Docs 深度集成",
-        "prosVsOriginal": ["免费版体验更好", "Google 生态集成", "100万 token 上下文"],
-        "consVsOriginal": ["中文能力较弱", "创意写作保守"]
+        "prosVsOriginal": [
+          "免费版体验更好",
+          "Google 生态集成",
+          "100万 token 上下文"
+        ],
+        "consVsOriginal": [
+          "中文能力较弱",
+          "创意写作保守"
+        ]
       },
       {
         "slug": "perplexity",
         "name": "Perplexity",
         "reason": "如果你主要用 AI 搜索信息和做研究，Perplexity 的实时搜索和来源引用更可靠",
-        "prosVsOriginal": ["实时联网搜索", "每句话标注来源", "信息准确度更高"],
-        "consVsOriginal": ["创作能力有限", "不支持图像生成"]
+        "prosVsOriginal": [
+          "实时联网搜索",
+          "每句话标注来源",
+          "信息准确度更高"
+        ],
+        "consVsOriginal": [
+          "创作能力有限",
+          "不支持图像生成"
+        ]
       },
       {
         "name": "DeepSeek",
         "website": "https://chat.deepseek.com",
         "reason": "完全免费且推理能力强大，中文理解出色，适合预算有限的用户",
-        "prosVsOriginal": ["完全免费无限使用", "推理能力接近 GPT-4", "中文能力出色"],
-        "consVsOriginal": ["服务器偶尔拥挤", "多模态能力有限", "生态不如 ChatGPT"]
+        "prosVsOriginal": [
+          "完全免费无限使用",
+          "推理能力接近 GPT-4",
+          "中文能力出色"
+        ],
+        "consVsOriginal": [
+          "服务器偶尔拥挤",
+          "多模态能力有限",
+          "生态不如 ChatGPT"
+        ]
       },
       {
         "name": "Poe",
         "website": "https://poe.com",
         "reason": "一个订阅访问多个 AI 模型（GPT-4、Claude、Gemini 等），适合想要对比多个模型的用户",
-        "prosVsOriginal": ["一个平台多个模型", "可创建自定义 Bot", "社区 Bot 丰富"],
-        "consVsOriginal": ["各模型用量有限制", "体验不如原生平台"]
+        "prosVsOriginal": [
+          "一个平台多个模型",
+          "可创建自定义 Bot",
+          "社区 Bot 丰富"
+        ],
+        "consVsOriginal": [
+          "各模型用量有限制",
+          "体验不如原生平台"
+        ]
       }
     ]
   },
@@ -95,36 +168,72 @@
         "slug": "windsurf",
         "name": "Windsurf",
         "reason": "免费版更慷慨，Cascade 流式交互体验流畅，适合预算有限的开发者",
-        "prosVsOriginal": ["免费版功能更多", "交互体验更流畅", "上手门槛更低"],
-        "consVsOriginal": ["Agent 稳定性稍逊", "项目索引能力较弱"]
+        "prosVsOriginal": [
+          "免费版功能更多",
+          "交互体验更流畅",
+          "上手门槛更低"
+        ],
+        "consVsOriginal": [
+          "Agent 稳定性稍逊",
+          "项目索引能力较弱"
+        ]
       },
       {
         "slug": "github-copilot",
         "name": "GitHub Copilot",
         "reason": "如果你使用 JetBrains IDE 或需要多 IDE 支持，Copilot 是唯一覆盖所有主流 IDE 的选择",
-        "prosVsOriginal": ["支持所有主流 IDE", "价格更低 $10/月", "GitHub 深度集成"],
-        "consVsOriginal": ["Agent 能力不如 Composer", "编辑器体验不如原生 AI IDE"]
+        "prosVsOriginal": [
+          "支持所有主流 IDE",
+          "价格更低 $10/月",
+          "GitHub 深度集成"
+        ],
+        "consVsOriginal": [
+          "Agent 能力不如 Composer",
+          "编辑器体验不如原生 AI IDE"
+        ]
       },
       {
         "slug": "claude-code",
         "name": "Claude Code",
         "reason": "如果你习惯终端工作流，Claude Code 的自主 Agent 能力和代码推理质量极高",
-        "prosVsOriginal": ["终端原生，不需要 GUI", "Opus 4.7 代码推理顶尖", "自主执行能力强"],
-        "consVsOriginal": ["无图形界面", "学习曲线较高", "按用量计费"]
+        "prosVsOriginal": [
+          "终端原生，不需要 GUI",
+          "Opus 4.7 代码推理顶尖",
+          "自主执行能力强"
+        ],
+        "consVsOriginal": [
+          "无图形界面",
+          "学习曲线较高",
+          "按用量计费"
+        ]
       },
       {
         "name": "Zed AI",
         "website": "https://zed.dev",
         "reason": "Rust 编写的高性能编辑器，内置 AI 辅助，适合追求极致编辑器性能的开发者",
-        "prosVsOriginal": ["编辑器性能极快", "原生协作功能", "开源免费"],
-        "consVsOriginal": ["AI 功能不如 Cursor 成熟", "插件生态较小"]
+        "prosVsOriginal": [
+          "编辑器性能极快",
+          "原生协作功能",
+          "开源免费"
+        ],
+        "consVsOriginal": [
+          "AI 功能不如 Cursor 成熟",
+          "插件生态较小"
+        ]
       },
       {
         "name": "Augment Code",
         "website": "https://augmentcode.com",
         "reason": "专注企业级代码理解，能索引整个代码库提供上下文感知的建议",
-        "prosVsOriginal": ["企业级代码库索引", "理解大型项目架构", "安全合规"],
-        "consVsOriginal": ["个人版功能有限", "知名度较低"]
+        "prosVsOriginal": [
+          "企业级代码库索引",
+          "理解大型项目架构",
+          "安全合规"
+        ],
+        "consVsOriginal": [
+          "个人版功能有限",
+          "知名度较低"
+        ]
       }
     ]
   },
@@ -138,36 +247,72 @@
         "slug": "cursor",
         "name": "Cursor",
         "reason": "如果你想要更强的 AI Agent 能力和原生 AI 编辑体验，Cursor 的 Composer 远超 Copilot",
-        "prosVsOriginal": ["Composer Agent 能力更强", "Tab 补全更智能", "AI 原生编辑体验"],
-        "consVsOriginal": ["只支持自己的编辑器", "价格更高 $20/月"]
+        "prosVsOriginal": [
+          "Composer Agent 能力更强",
+          "Tab 补全更智能",
+          "AI 原生编辑体验"
+        ],
+        "consVsOriginal": [
+          "只支持自己的编辑器",
+          "价格更高 $20/月"
+        ]
       },
       {
         "slug": "windsurf",
         "name": "Windsurf",
         "reason": "免费版体验好，Cascade 交互流畅，适合从 Copilot 免费版升级的用户",
-        "prosVsOriginal": ["免费版更慷慨", "流式交互体验好", "上手简单"],
-        "consVsOriginal": ["IDE 支持有限", "企业功能不足"]
+        "prosVsOriginal": [
+          "免费版更慷慨",
+          "流式交互体验好",
+          "上手简单"
+        ],
+        "consVsOriginal": [
+          "IDE 支持有限",
+          "企业功能不足"
+        ]
       },
       {
         "slug": "claude-code",
         "name": "Claude Code",
         "reason": "终端 AI Agent，适合喜欢命令行工作流且需要强大代码推理的高级开发者",
-        "prosVsOriginal": ["代码推理能力更强", "自主完成复杂任务", "终端原生"],
-        "consVsOriginal": ["无 IDE 集成", "需要终端经验", "成本较高"]
+        "prosVsOriginal": [
+          "代码推理能力更强",
+          "自主完成复杂任务",
+          "终端原生"
+        ],
+        "consVsOriginal": [
+          "无 IDE 集成",
+          "需要终端经验",
+          "成本较高"
+        ]
       },
       {
         "name": "Tabnine",
         "website": "https://tabnine.com",
         "reason": "注重代码隐私，支持本地模型运行，适合对数据安全有严格要求的企业",
-        "prosVsOriginal": ["可本地运行保护隐私", "支持所有主流 IDE", "企业合规"],
-        "consVsOriginal": ["AI 能力不如 Copilot", "补全质量一般"]
+        "prosVsOriginal": [
+          "可本地运行保护隐私",
+          "支持所有主流 IDE",
+          "企业合规"
+        ],
+        "consVsOriginal": [
+          "AI 能力不如 Copilot",
+          "补全质量一般"
+        ]
       },
       {
         "name": "Amazon Q Developer",
         "website": "https://aws.amazon.com/q/developer/",
         "reason": "AWS 生态深度集成，适合使用 AWS 服务的开发团队",
-        "prosVsOriginal": ["AWS 服务集成", "安全扫描功能", "免费版可用"],
-        "consVsOriginal": ["非 AWS 场景优势不大", "整体能力不如 Copilot"]
+        "prosVsOriginal": [
+          "AWS 服务集成",
+          "安全扫描功能",
+          "免费版可用"
+        ],
+        "consVsOriginal": [
+          "非 AWS 场景优势不大",
+          "整体能力不如 Copilot"
+        ]
       }
     ]
   },
@@ -181,36 +326,696 @@
         "slug": "chatgpt",
         "name": "ChatGPT",
         "reason": "通用写作能力强大，$20/月的 Plus 版本性价比远高于 Jasper",
-        "prosVsOriginal": ["价格低一半多", "通用能力更强", "多模态支持"],
-        "consVsOriginal": ["无品牌声音训练", "无营销专用模板", "无团队协作流程"]
+        "prosVsOriginal": [
+          "价格低一半多",
+          "通用能力更强",
+          "多模态支持"
+        ],
+        "consVsOriginal": [
+          "无品牌声音训练",
+          "无营销专用模板",
+          "无团队协作流程"
+        ]
       },
       {
         "slug": "claude",
         "name": "Claude",
         "reason": "长文本写作质量极高，适合需要撰写深度内容（白皮书、案例研究）的营销团队",
-        "prosVsOriginal": ["长文本质量更高", "格式控制精确", "价格更低"],
-        "consVsOriginal": ["无营销模板", "无品牌管理功能", "无 SEO 集成"]
+        "prosVsOriginal": [
+          "长文本质量更高",
+          "格式控制精确",
+          "价格更低"
+        ],
+        "consVsOriginal": [
+          "无营销模板",
+          "无品牌管理功能",
+          "无 SEO 集成"
+        ]
       },
       {
         "name": "Copy.ai",
         "website": "https://copy.ai",
         "reason": "有免费版且工作流自动化功能强大，适合预算有限的中小企业",
-        "prosVsOriginal": ["有免费版", "工作流自动化", "Pro 版无限字数"],
-        "consVsOriginal": ["品牌控制不如 Jasper", "SEO 功能较弱"]
+        "prosVsOriginal": [
+          "有免费版",
+          "工作流自动化",
+          "Pro 版无限字数"
+        ],
+        "consVsOriginal": [
+          "品牌控制不如 Jasper",
+          "SEO 功能较弱"
+        ]
       },
       {
         "name": "Writesonic",
         "website": "https://writesonic.com",
         "reason": "价格更亲民且包含 AI 图像生成，适合需要图文并茂内容的小团队",
-        "prosVsOriginal": ["价格更低", "含 AI 图像生成", "多语言支持好"],
-        "consVsOriginal": ["品牌功能基础", "企业功能有限"]
+        "prosVsOriginal": [
+          "价格更低",
+          "含 AI 图像生成",
+          "多语言支持好"
+        ],
+        "consVsOriginal": [
+          "品牌功能基础",
+          "企业功能有限"
+        ]
       },
       {
         "slug": "notion-ai",
         "name": "Notion AI",
         "reason": "如果团队已使用 Notion 管理内容，$10/月的 AI 附加功能性价比极高",
-        "prosVsOriginal": ["与知识库深度集成", "价格仅 $10/月", "文档管理一体化"],
-        "consVsOriginal": ["必须使用 Notion", "无专业营销模板", "无品牌声音"]
+        "prosVsOriginal": [
+          "与知识库深度集成",
+          "价格仅 $10/月",
+          "文档管理一体化"
+        ],
+        "consVsOriginal": [
+          "必须使用 Notion",
+          "无专业营销模板",
+          "无品牌声音"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dall-e-alternatives",
+    "tool": "dall-e",
+    "title": "5 个 DALL-E 替代品推荐（2026 年）",
+    "description": "DALL-E 4 集成在 ChatGPT 中使用方便，但如果你需要更多风格控制或免费选项，这些替代品值得考虑。",
+    "alternatives": [
+      {
+        "slug": "midjourney",
+        "name": "Midjourney",
+        "reason": "美学质量业界顶尖，社区庞大，适合追求艺术感和视觉冲击力的创作者",
+        "prosVsOriginal": [
+          "美学质量更高",
+          "社区生态庞大",
+          "风格一致性强"
+        ],
+        "consVsOriginal": [
+          "无免费版",
+          "需要 Discord 或 Web 操作",
+          "文字渲染不如 DALL-E"
+        ]
+      },
+      {
+        "slug": "flux-pro",
+        "name": "FLUX Pro",
+        "reason": "按量付费更灵活，写实风格出色，开源版本可本地部署",
+        "prosVsOriginal": [
+          "按量付费更灵活",
+          "Schnell 版免费开源",
+          "写实风格极佳"
+        ],
+        "consVsOriginal": [
+          "需要通过 API 或第三方使用",
+          "社区较小"
+        ]
+      },
+      {
+        "slug": "stable-diffusion",
+        "name": "Stable Diffusion",
+        "reason": "完全免费开源，可本地运行，ControlNet 提供精确控制能力",
+        "prosVsOriginal": [
+          "完全免费",
+          "本地运行无限生成",
+          "ControlNet 精确控制"
+        ],
+        "consVsOriginal": [
+          "需要高端 GPU",
+          "学习曲线陡峭"
+        ]
+      },
+      {
+        "slug": "ideogram",
+        "name": "Ideogram",
+        "reason": "文字渲染能力与 DALL-E 并列最强，有免费版可体验",
+        "prosVsOriginal": [
+          "有免费版",
+          "文字渲染同样出色",
+          "Logo 设计能力强"
+        ],
+        "consVsOriginal": [
+          "整体风格多样性不如 DALL-E",
+          "生态较小"
+        ]
+      },
+      {
+        "slug": "leonardo-ai",
+        "name": "Leonardo.ai",
+        "reason": "免费额度慷慨，支持模型训练，游戏和 3D 资产生成能力突出",
+        "prosVsOriginal": [
+          "每天 150 tokens 免费",
+          "支持自定义模型训练",
+          "游戏资产生成强"
+        ],
+        "consVsOriginal": [
+          "通用美学不如 DALL-E",
+          "界面较复杂"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "notion-ai-alternatives",
+    "tool": "notion-ai",
+    "title": "5 个 Notion AI 替代品推荐（2026 年）",
+    "description": "Notion AI 与知识库深度集成很方便，但如果你不用 Notion 或需要更强的 AI 能力，这些替代品更合适。",
+    "alternatives": [
+      {
+        "slug": "chatgpt",
+        "name": "ChatGPT",
+        "reason": "通用 AI 能力远超 Notion AI，支持图像、代码、分析等多种任务",
+        "prosVsOriginal": [
+          "AI 能力更全面",
+          "多模态支持",
+          "插件生态丰富"
+        ],
+        "consVsOriginal": [
+          "无知识库集成",
+          "需要手动粘贴内容",
+          "无文档管理"
+        ]
+      },
+      {
+        "slug": "claude",
+        "name": "Claude",
+        "reason": "200K 超长上下文适合处理大量文档，写作质量和格式控制更精确",
+        "prosVsOriginal": [
+          "超长上下文处理文档",
+          "写作质量更高",
+          "格式控制精确"
+        ],
+        "consVsOriginal": [
+          "无知识库集成",
+          "免费版用量极少"
+        ]
+      },
+      {
+        "name": "Taskade",
+        "website": "https://taskade.com",
+        "reason": "AI 原生的项目管理工具，自动生成任务和工作流，团队协作功能完善",
+        "prosVsOriginal": [
+          "AI 原生设计",
+          "自动生成任务列表",
+          "实时协作"
+        ],
+        "consVsOriginal": [
+          "知识库功能不如 Notion",
+          "文档编辑能力有限"
+        ]
+      },
+      {
+        "name": "Coda AI",
+        "website": "https://coda.io",
+        "reason": "文档+表格+自动化一体化，AI 可操作数据库和触发工作流",
+        "prosVsOriginal": [
+          "数据库操作能力强",
+          "自动化工作流",
+          "公式系统强大"
+        ],
+        "consVsOriginal": [
+          "学习曲线较高",
+          "社区不如 Notion 活跃"
+        ]
+      },
+      {
+        "name": "Craft AI",
+        "website": "https://craft.do",
+        "reason": "Apple 生态最佳文档工具，设计精美，AI 辅助写作体验流畅",
+        "prosVsOriginal": [
+          "设计极其精美",
+          "Apple 生态集成",
+          "离线可用"
+        ],
+        "consVsOriginal": [
+          "仅 Apple 平台最佳",
+          "AI 功能不如 Notion AI 深度"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammarly-alternatives",
+    "tool": "grammarly",
+    "title": "5 个 Grammarly 替代品推荐（2026 年）",
+    "description": "Grammarly 是英文写作纠错的标杆，但如果你需要中文支持或更强的 AI 创作能力，这些替代品值得考虑。",
+    "alternatives": [
+      {
+        "slug": "chatgpt",
+        "name": "ChatGPT",
+        "reason": "不仅能纠错还能创作，中英文都支持，通用性远超 Grammarly",
+        "prosVsOriginal": [
+          "中英文都支持",
+          "可从零创作内容",
+          "多功能通用"
+        ],
+        "consVsOriginal": [
+          "无浏览器实时检查",
+          "需要复制粘贴",
+          "纠错不如 Grammarly 专业"
+        ]
+      },
+      {
+        "slug": "claude",
+        "name": "Claude",
+        "reason": "长文本润色和改写质量极高，格式控制精确，适合专业写作",
+        "prosVsOriginal": [
+          "长文本处理能力强",
+          "改写质量更高",
+          "格式控制精确"
+        ],
+        "consVsOriginal": [
+          "无实时纠错插件",
+          "需要手动操作"
+        ]
+      },
+      {
+        "name": "ProWritingAid",
+        "website": "https://prowritingaid.com",
+        "reason": "比 Grammarly 更深度的写作分析，提供风格、节奏、可读性等维度的建议",
+        "prosVsOriginal": [
+          "写作分析更深度",
+          "一次性买断选项",
+          "学术写作支持好"
+        ],
+        "consVsOriginal": [
+          "界面不如 Grammarly 简洁",
+          "实时检查速度稍慢"
+        ]
+      },
+      {
+        "name": "LanguageTool",
+        "website": "https://languagetool.org",
+        "reason": "开源免费，支持 30+ 语言（包括中文），隐私保护好",
+        "prosVsOriginal": [
+          "开源免费版可用",
+          "支持 30+ 语言",
+          "可本地部署保护隐私"
+        ],
+        "consVsOriginal": [
+          "英文纠错不如 Grammarly 精准",
+          "AI 功能较基础"
+        ]
+      },
+      {
+        "name": "Hemingway Editor",
+        "website": "https://hemingwayapp.com",
+        "reason": "专注可读性优化，帮助你写出简洁有力的文字，适合追求清晰表达的写作者",
+        "prosVsOriginal": [
+          "可读性分析直观",
+          "帮助简化复杂句子",
+          "一次性买断"
+        ],
+        "consVsOriginal": [
+          "功能单一",
+          "无语法纠错",
+          "无 AI 生成能力"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "elevenlabs-alternatives",
+    "tool": "elevenlabs",
+    "title": "5 个 ElevenLabs 替代品推荐（2026 年）",
+    "description": "ElevenLabs 语音自然度业界最高，但如果你需要视频配音一体化或更低价格，这些替代品值得考虑。",
+    "alternatives": [
+      {
+        "slug": "murf-ai",
+        "name": "Murf AI",
+        "reason": "内置视频编辑器，可直接将配音同步到视频，适合需要视频配音的企业",
+        "prosVsOriginal": [
+          "内置视频编辑",
+          "团队协作功能",
+          "企业审批流程"
+        ],
+        "consVsOriginal": [
+          "语音自然度略逊",
+          "价格更高",
+          "声音克隆门槛高"
+        ]
+      },
+      {
+        "slug": "play-ht",
+        "name": "Play.ht",
+        "reason": "API 友好度高，超逼真语音，适合需要集成语音功能的开发者",
+        "prosVsOriginal": [
+          "API 设计优秀",
+          "超逼真语音",
+          "流式输出支持好"
+        ],
+        "consVsOriginal": [
+          "免费额度较少",
+          "企业功能不如 ElevenLabs"
+        ]
+      },
+      {
+        "name": "LOVO AI",
+        "website": "https://lovo.ai",
+        "reason": "500+ 声音选择，支持 100+ 语言，价格比 ElevenLabs 更亲民",
+        "prosVsOriginal": [
+          "声音选择更多",
+          "语言覆盖更广",
+          "价格更低"
+        ],
+        "consVsOriginal": [
+          "自然度不如 ElevenLabs",
+          "声音克隆质量一般"
+        ]
+      },
+      {
+        "slug": "descript",
+        "name": "Descript",
+        "reason": "音视频编辑一体化，像编辑文档一样编辑音频，适合播客和视频创作者",
+        "prosVsOriginal": [
+          "音视频编辑一体化",
+          "文本式编辑体验",
+          "自动去除填充词"
+        ],
+        "consVsOriginal": [
+          "TTS 质量不如 ElevenLabs",
+          "主要是编辑工具非生成工具"
+        ]
+      },
+      {
+        "name": "Resemble AI",
+        "website": "https://resemble.ai",
+        "reason": "声音克隆技术出色，支持实时语音转换，适合需要定制声音的企业",
+        "prosVsOriginal": [
+          "实时语音转换",
+          "声音克隆质量高",
+          "API 灵活"
+        ],
+        "consVsOriginal": [
+          "价格较高",
+          "预设声音较少"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "runway-alternatives",
+    "tool": "runway",
+    "title": "5 个 Runway 替代品推荐（2026 年）",
+    "description": "Runway Gen-3 是 AI 视频生成的先驱，但价格不低且视频时长有限。这些替代品提供不同的优势。",
+    "alternatives": [
+      {
+        "slug": "kling",
+        "name": "可灵 Kling",
+        "reason": "支持最长 3 分钟视频，免费版慷慨，中文提示词理解准确",
+        "prosVsOriginal": [
+          "视频时长更长",
+          "免费版更慷慨",
+          "中文支持好"
+        ],
+        "consVsOriginal": [
+          "国际版功能可能受限",
+          "画质稳定性不如 Runway"
+        ]
+      },
+      {
+        "slug": "pika",
+        "name": "Pika",
+        "reason": "界面极简上手快，Lip Sync 和风格转换等特效功能丰富",
+        "prosVsOriginal": [
+          "界面更简洁",
+          "特效功能丰富",
+          "免费版可体验"
+        ],
+        "consVsOriginal": [
+          "视频时长很短",
+          "画质不如 Runway"
+        ]
+      },
+      {
+        "name": "Luma Dream Machine",
+        "website": "https://lumalabs.ai/dream-machine",
+        "reason": "3D 理解能力强，运动自然度高，有免费版可体验",
+        "prosVsOriginal": [
+          "3D 空间理解好",
+          "运动更自然",
+          "有免费版"
+        ],
+        "consVsOriginal": [
+          "功能不如 Runway 全面",
+          "编辑能力有限"
+        ]
+      },
+      {
+        "slug": "heygen",
+        "name": "HeyGen",
+        "reason": "数字人视频制作首选，口型同步和多语言翻译功能强大",
+        "prosVsOriginal": [
+          "数字人制作专业",
+          "口型同步精准",
+          "多语言翻译"
+        ],
+        "consVsOriginal": [
+          "非通用视频生成",
+          "价格较高"
+        ]
+      },
+      {
+        "name": "Minimax (Hailuo AI)",
+        "website": "https://hailuoai.video",
+        "reason": "免费使用，视频质量接近 Runway，中文支持好",
+        "prosVsOriginal": [
+          "完全免费",
+          "质量接近 Runway",
+          "中文支持"
+        ],
+        "consVsOriginal": [
+          "服务器偶尔拥挤",
+          "功能不如 Runway 丰富"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "gemini-alternatives",
+    "tool": "gemini",
+    "title": "5 个 Gemini 替代品推荐（2026 年）",
+    "description": "Gemini 与 Google 生态深度集成，但如果你不在 Google 生态或需要更强的特定能力，这些替代品更合适。",
+    "alternatives": [
+      {
+        "slug": "chatgpt",
+        "name": "ChatGPT",
+        "reason": "生态最完整，多模态最强，插件和 GPTs 商店提供无限扩展可能",
+        "prosVsOriginal": [
+          "生态更完整",
+          "GPTs 商店",
+          "多模态更强"
+        ],
+        "consVsOriginal": [
+          "免费版限制多",
+          "无 Google 生态集成"
+        ]
+      },
+      {
+        "slug": "claude",
+        "name": "Claude",
+        "reason": "长文本处理和指令遵循能力更强，代码和写作质量更高",
+        "prosVsOriginal": [
+          "长文本处理更强",
+          "指令遵循更精确",
+          "写作质量更高"
+        ],
+        "consVsOriginal": [
+          "无搜索能力",
+          "无 Google 集成",
+          "免费版极少"
+        ]
+      },
+      {
+        "slug": "perplexity",
+        "name": "Perplexity",
+        "reason": "搜索体验更纯粹，每句话标注来源，信息准确度更高",
+        "prosVsOriginal": [
+          "来源标注更清晰",
+          "搜索准确度更高",
+          "无广告干扰"
+        ],
+        "consVsOriginal": [
+          "创作能力有限",
+          "无生态集成"
+        ]
+      },
+      {
+        "slug": "deepseek",
+        "name": "DeepSeek",
+        "reason": "完全免费且推理能力强大，适合预算有限但需要高质量 AI 的用户",
+        "prosVsOriginal": [
+          "完全免费",
+          "推理能力强",
+          "中文能力出色"
+        ],
+        "consVsOriginal": [
+          "无多模态",
+          "服务不稳定",
+          "无生态集成"
+        ]
+      },
+      {
+        "slug": "kimi",
+        "name": "Kimi",
+        "reason": "200 万字超长上下文，中文理解出色，适合需要处理大量中文文档的用户",
+        "prosVsOriginal": [
+          "超长上下文",
+          "中文能力极强",
+          "免费版慷慨"
+        ],
+        "consVsOriginal": [
+          "英文能力不如 Gemini",
+          "无 Google 生态",
+          "多模态有限"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "perplexity-alternatives",
+    "tool": "perplexity",
+    "title": "5 个 Perplexity 替代品推荐（2026 年）",
+    "description": "Perplexity 是 AI 搜索的标杆，但如果你需要更多功能或不同的搜索体验，这些替代品值得尝试。",
+    "alternatives": [
+      {
+        "slug": "gemini",
+        "name": "Gemini",
+        "reason": "Google 搜索加持，信息覆盖面更广，与 Google 生态深度集成",
+        "prosVsOriginal": [
+          "Google 搜索加持",
+          "生态集成",
+          "免费版更强"
+        ],
+        "consVsOriginal": [
+          "来源标注不如 Perplexity 清晰",
+          "偶有幻觉"
+        ]
+      },
+      {
+        "slug": "chatgpt",
+        "name": "ChatGPT",
+        "reason": "搜索+创作+多模态全能，一个工具解决所有问题",
+        "prosVsOriginal": [
+          "功能更全面",
+          "多模态支持",
+          "创作能力强"
+        ],
+        "consVsOriginal": [
+          "搜索来源不够透明",
+          "信息准确度不如 Perplexity"
+        ]
+      },
+      {
+        "name": "You.com",
+        "website": "https://you.com",
+        "reason": "支持多模型切换，代码搜索能力强，开发者友好",
+        "prosVsOriginal": [
+          "多模型可切换",
+          "代码搜索强",
+          "有免费版"
+        ],
+        "consVsOriginal": [
+          "整体搜索质量不如 Perplexity",
+          "知名度较低"
+        ]
+      },
+      {
+        "name": "Phind",
+        "website": "https://phind.com",
+        "reason": "开发者专用 AI 搜索，代码问题搜索准确度极高",
+        "prosVsOriginal": [
+          "代码搜索极强",
+          "开发者体验好",
+          "免费使用"
+        ],
+        "consVsOriginal": [
+          "仅适合技术搜索",
+          "通用搜索不如 Perplexity"
+        ]
+      },
+      {
+        "name": "Exa",
+        "website": "https://exa.ai",
+        "reason": "语义搜索引擎，API 友好，适合需要集成搜索能力的开发者",
+        "prosVsOriginal": [
+          "语义搜索精准",
+          "API 设计优秀",
+          "可集成到产品中"
+        ],
+        "consVsOriginal": [
+          "无消费者界面",
+          "需要技术能力使用"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "deepl-alternatives",
+    "tool": "deepl",
+    "title": "4 个 DeepL 替代品推荐（2026 年）",
+    "description": "DeepL 翻译质量出色但支持语言有限且付费版价格不低，以下是值得考虑的替代方案。",
+    "alternatives": [
+      {
+        "slug": "smartcat",
+        "name": "Smartcat",
+        "reason": "AI + 人工翻译一体化平台，适合需要高质量翻译且有预算的团队",
+        "prosVsOriginal": [
+          "AI + 人工混合",
+          "内置翻译人才市场",
+          "CAT 工具完整"
+        ],
+        "consVsOriginal": [
+          "纯机器翻译不如 DeepL",
+          "界面复杂",
+          "价格较高"
+        ]
+      },
+      {
+        "slug": "phrase",
+        "name": "Phrase",
+        "reason": "企业级翻译管理系统，适合需要持续本地化的软件产品",
+        "prosVsOriginal": [
+          "TMS 功能完整",
+          "开发工具集成好",
+          "工作流自动化"
+        ],
+        "consVsOriginal": [
+          "翻译质量依赖配置",
+          "学习曲线陡",
+          "面向企业定价"
+        ]
+      },
+      {
+        "slug": "lokalise",
+        "name": "Lokalise",
+        "reason": "专为软件本地化设计，支持 OTA 更新和 UI 截图上下文",
+        "prosVsOriginal": [
+          "软件本地化专精",
+          "OTA 更新",
+          "截图上下文"
+        ],
+        "consVsOriginal": [
+          "不适合文档翻译",
+          "价格较高",
+          "功能过于专业"
+        ]
+      },
+      {
+        "name": "Google Translate",
+        "website": "https://translate.google.com",
+        "reason": "完全免费且支持 130+ 语言，适合日常翻译和小语种需求",
+        "prosVsOriginal": [
+          "完全免费",
+          "130+ 语言",
+          "即时翻译"
+        ],
+        "consVsOriginal": [
+          "翻译质量不如 DeepL",
+          "无文档格式保持",
+          "无术语管理"
+        ]
       }
     ]
   }

@@ -1,231 +1,2454 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aicompare.jtlcook.com</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://aicompare.jtlcook.com/zh/about</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/about"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/chatgpt</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/about</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/about"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/claude</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/chatgpt-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/chatgpt-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/chatgpt-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/chatgpt-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/gemini</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/chatgpt-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/chatgpt-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/chatgpt-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/chatgpt-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/cursor</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/copilot-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/copilot-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/copilot-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/copilot-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/github-copilot</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/copilot-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/copilot-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/copilot-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/copilot-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/midjourney</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/cursor-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/cursor-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/cursor-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/cursor-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/dall-e</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/cursor-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/cursor-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/cursor-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/cursor-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/stable-diffusion</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/dall-e-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/dall-e-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/dall-e-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/dall-e-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/perplexity</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/dall-e-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/dall-e-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/dall-e-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/dall-e-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/claude-code</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/deepl-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/deepl-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/deepl-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/deepl-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/windsurf</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/deepl-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/deepl-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/deepl-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/deepl-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/jasper</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/elevenlabs-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/elevenlabs-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/elevenlabs-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/elevenlabs-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/notion-ai</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/elevenlabs-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/elevenlabs-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/elevenlabs-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/elevenlabs-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/runway</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/gemini-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/gemini-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/gemini-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/gemini-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/tools/elevenlabs</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/gemini-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/gemini-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/gemini-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/gemini-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/chatgpt-vs-claude</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/grammarly-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/grammarly-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/grammarly-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/grammarly-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/cursor-vs-copilot</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/grammarly-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/grammarly-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/grammarly-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/grammarly-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/midjourney-vs-dalle</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/jasper-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/jasper-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/jasper-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/jasper-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/cursor-vs-windsurf</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/jasper-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/jasper-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/jasper-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/jasper-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/chatgpt-vs-gemini</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/midjourney-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/midjourney-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/midjourney-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/midjourney-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/chatgpt-vs-perplexity</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/midjourney-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/midjourney-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/midjourney-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/midjourney-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/claude-vs-gemini</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/notion-ai-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/notion-ai-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/notion-ai-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/notion-ai-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/stable-diffusion-vs-midjourney</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/notion-ai-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/notion-ai-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/notion-ai-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/notion-ai-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/runway-vs-kling</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/perplexity-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/perplexity-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/perplexity-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/perplexity-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/compare/jasper-vs-copyai</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/perplexity-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/perplexity-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/perplexity-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/perplexity-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/alternatives/midjourney-alternatives</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/zh/alternatives/runway-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/runway-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/runway-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/runway-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/alternatives/chatgpt-alternatives</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/en/alternatives/runway-alternatives</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/alternatives/runway-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/alternatives/runway-alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/alternatives/runway-alternatives"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/alternatives/cursor-alternatives</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/zh/best/ai-coding-tools</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-coding-tools"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-coding-tools"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-coding-tools"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/alternatives/copilot-alternatives</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/en/best/ai-coding-tools</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-coding-tools"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-coding-tools"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-coding-tools"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/alternatives/jasper-alternatives</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/zh/best/ai-image-tools</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-image-tools"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-image-tools"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-image-tools"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/category/ai-coding</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/en/best/ai-image-tools</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-image-tools"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-image-tools"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-image-tools"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/category/ai-chat</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/zh/best/ai-tools-chinese</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-tools-chinese"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-tools-chinese"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-tools-chinese"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/category/ai-image</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aicompare.jtlcook.com/en/best/ai-tools-chinese</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-tools-chinese"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-tools-chinese"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-tools-chinese"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/about</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://aicompare.jtlcook.com/zh/best/ai-tools-freelancers</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-tools-freelancers"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-tools-freelancers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-tools-freelancers"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/privacy</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.2</priority>
+    <loc>https://aicompare.jtlcook.com/en/best/ai-tools-freelancers</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-tools-freelancers"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-tools-freelancers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-tools-freelancers"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/terms</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.2</priority>
+    <loc>https://aicompare.jtlcook.com/zh/best/ai-tools-teams</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-tools-teams"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-tools-teams"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-tools-teams"/>
   </url>
   <url>
-    <loc>https://aicompare.jtlcook.com/contact</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://aicompare.jtlcook.com/en/best/ai-tools-teams</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-tools-teams"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-tools-teams"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-tools-teams"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/best/ai-writing-tools</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-writing-tools"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-writing-tools"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-writing-tools"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/best/ai-writing-tools</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/ai-writing-tools"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/ai-writing-tools"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/ai-writing-tools"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/best/free-ai-tools-students</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/free-ai-tools-students"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/free-ai-tools-students"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/free-ai-tools-students"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/best/free-ai-tools-students</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/best/free-ai-tools-students"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/best/free-ai-tools-students"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/best/free-ai-tools-students"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-3d</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-3d"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-3d"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-3d"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-3d</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-3d"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-3d"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-3d"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-chat</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-chat"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-chat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-chat"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-chat</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-chat"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-chat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-chat"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-coding</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-coding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-coding"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-coding"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-coding</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-coding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-coding"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-coding"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-customer-service</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-customer-service"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-customer-service"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-customer-service"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-customer-service</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-customer-service"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-customer-service"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-customer-service"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-data</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-data"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-data"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-data"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-data</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-data"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-data"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-data"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-design</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-design"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-design"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-design"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-design</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-design"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-design"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-design"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-education</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-education"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-education"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-education"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-education</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-education"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-education"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-education"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-image</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-image"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-image"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-image"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-image</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-image"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-image"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-image"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-productivity</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-productivity"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-productivity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-productivity"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-productivity</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-productivity"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-productivity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-productivity"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-search</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-search"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-search"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-search"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-search</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-search"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-search"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-search"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-translation</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-translation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-translation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-translation"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-translation</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-translation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-translation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-translation"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-video</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-video"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-video"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-video"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-video</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-video"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-video"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-video"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-voice</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-voice"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-voice"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-voice"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-voice</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-voice"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-voice"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-voice"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/category/ai-writing</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-writing"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-writing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-writing"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/category/ai-writing</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/category/ai-writing"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/category/ai-writing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/category/ai-writing"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/canva-ai-vs-figma-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/canva-ai-vs-figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/canva-ai-vs-figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/canva-ai-vs-figma-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/canva-ai-vs-figma-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/canva-ai-vs-figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/canva-ai-vs-figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/canva-ai-vs-figma-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-claude</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-claude"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/chatgpt-vs-claude</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-claude"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-deepseek</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-deepseek"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-deepseek"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-deepseek"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/chatgpt-vs-deepseek</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-deepseek"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-deepseek"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-deepseek"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/chatgpt-vs-gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-perplexity</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-perplexity"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-perplexity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-perplexity"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/chatgpt-vs-perplexity</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-perplexity"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/chatgpt-vs-perplexity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/chatgpt-vs-perplexity"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/claude-vs-gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/claude-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/claude-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/claude-vs-gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/claude-vs-gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/claude-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/claude-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/claude-vs-gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/cursor-vs-claude-code</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-claude-code"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/cursor-vs-claude-code"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-claude-code"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/cursor-vs-claude-code</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-claude-code"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/cursor-vs-claude-code"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-claude-code"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/cursor-vs-copilot</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-copilot"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/cursor-vs-copilot"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-copilot"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/cursor-vs-copilot</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-copilot"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/cursor-vs-copilot"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-copilot"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/cursor-vs-windsurf</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-windsurf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/cursor-vs-windsurf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-windsurf"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/cursor-vs-windsurf</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-windsurf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/cursor-vs-windsurf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/cursor-vs-windsurf"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/deepl-vs-google-translate</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/deepl-vs-google-translate"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/deepl-vs-google-translate"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/deepl-vs-google-translate"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/deepl-vs-google-translate</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/deepl-vs-google-translate"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/deepl-vs-google-translate"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/deepl-vs-google-translate"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/deepseek-vs-claude</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/deepseek-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/deepseek-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/deepseek-vs-claude"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/deepseek-vs-claude</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/deepseek-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/deepseek-vs-claude"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/deepseek-vs-claude"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-murf</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-murf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/elevenlabs-vs-murf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-murf"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/elevenlabs-vs-murf</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-murf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/elevenlabs-vs-murf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-murf"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-speechify</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-speechify"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/elevenlabs-vs-speechify"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-speechify"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/elevenlabs-vs-speechify</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-speechify"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/elevenlabs-vs-speechify"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/elevenlabs-vs-speechify"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/gamma-vs-beautiful-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/gamma-vs-beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/gamma-vs-beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/gamma-vs-beautiful-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/gamma-vs-beautiful-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/gamma-vs-beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/gamma-vs-beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/gamma-vs-beautiful-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/grammarly-vs-chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/grammarly-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/grammarly-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/grammarly-vs-chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/grammarly-vs-chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/grammarly-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/grammarly-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/grammarly-vs-chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/grok-vs-chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/grok-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/grok-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/grok-vs-chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/grok-vs-chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/grok-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/grok-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/grok-vs-chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/jasper-vs-copyai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/jasper-vs-copyai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/jasper-vs-copyai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/jasper-vs-copyai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/jasper-vs-copyai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/jasper-vs-copyai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/jasper-vs-copyai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/jasper-vs-copyai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/julius-ai-vs-hex</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/julius-ai-vs-hex"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/julius-ai-vs-hex"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/julius-ai-vs-hex"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/julius-ai-vs-hex</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/julius-ai-vs-hex"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/julius-ai-vs-hex"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/julius-ai-vs-hex"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/khanmigo-vs-duolingo-max</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/khanmigo-vs-duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/khanmigo-vs-duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/khanmigo-vs-duolingo-max"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/khanmigo-vs-duolingo-max</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/khanmigo-vs-duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/khanmigo-vs-duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/khanmigo-vs-duolingo-max"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/kling-vs-pika</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/kling-vs-pika"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/kling-vs-pika"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/kling-vs-pika"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/kling-vs-pika</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/kling-vs-pika"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/kling-vs-pika"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/kling-vs-pika"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/midjourney-vs-dalle</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-dalle"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/midjourney-vs-dalle"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-dalle"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/midjourney-vs-dalle</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-dalle"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/midjourney-vs-dalle"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-dalle"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/midjourney-vs-firefly</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-firefly"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/midjourney-vs-firefly"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-firefly"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/midjourney-vs-firefly</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-firefly"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/midjourney-vs-firefly"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-firefly"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/midjourney-vs-flux</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-flux"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/midjourney-vs-flux"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-flux"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/midjourney-vs-flux</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-flux"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/midjourney-vs-flux"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/midjourney-vs-flux"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/notion-ai-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/notion-ai-vs-chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/notion-ai-vs-chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-taskade</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-taskade"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/notion-ai-vs-taskade"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-taskade"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/notion-ai-vs-taskade</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-taskade"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/notion-ai-vs-taskade"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/notion-ai-vs-taskade"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/perplexity-vs-gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/perplexity-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/perplexity-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/perplexity-vs-gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/perplexity-vs-gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/perplexity-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/perplexity-vs-gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/perplexity-vs-gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/replit-ai-vs-lovable</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/replit-ai-vs-lovable"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/replit-ai-vs-lovable"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/replit-ai-vs-lovable"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/replit-ai-vs-lovable</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/replit-ai-vs-lovable"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/replit-ai-vs-lovable"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/replit-ai-vs-lovable"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/runway-vs-kling</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/runway-vs-kling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/runway-vs-kling"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/runway-vs-kling"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/runway-vs-kling</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/runway-vs-kling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/runway-vs-kling"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/runway-vs-kling"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/sora-vs-runway</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/sora-vs-runway"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/sora-vs-runway"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/sora-vs-runway"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/sora-vs-runway</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/sora-vs-runway"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/sora-vs-runway"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/sora-vs-runway"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/stable-diffusion-vs-midjourney</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/stable-diffusion-vs-midjourney"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/stable-diffusion-vs-midjourney"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/stable-diffusion-vs-midjourney"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/stable-diffusion-vs-midjourney</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/stable-diffusion-vs-midjourney"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/stable-diffusion-vs-midjourney"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/stable-diffusion-vs-midjourney"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/compare/suno-vs-udio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/suno-vs-udio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/suno-vs-udio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/suno-vs-udio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/compare/suno-vs-udio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/compare/suno-vs-udio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/compare/suno-vs-udio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/compare/suno-vs-udio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/contact</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/contact"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/contact</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/contact"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/free/canva-ai-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/canva-ai-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/canva-ai-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/canva-ai-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/free/canva-ai-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/canva-ai-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/canva-ai-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/canva-ai-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/free/chatgpt-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/chatgpt-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/chatgpt-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/chatgpt-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/free/chatgpt-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/chatgpt-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/chatgpt-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/chatgpt-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/free/copilot-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/copilot-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/copilot-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/copilot-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/free/copilot-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/copilot-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/copilot-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/copilot-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/free/cursor-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/cursor-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/cursor-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/cursor-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/free/cursor-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/cursor-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/cursor-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/cursor-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/free/gemini-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/gemini-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/gemini-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/gemini-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/free/gemini-free</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/free/gemini-free"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/free/gemini-free"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/free/gemini-free"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/privacy</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/privacy"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/privacy</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/privacy"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/terms</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/terms"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/terms</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/terms"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/ada-cx</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/ada-cx"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/ada-cx"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/ada-cx"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/ada-cx</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/ada-cx"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/ada-cx"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/ada-cx"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/adobe-firefly</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/adobe-firefly"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/adobe-firefly"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/adobe-firefly"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/adobe-firefly</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/adobe-firefly"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/adobe-firefly"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/adobe-firefly"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/aider</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/aider"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/aider"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/aider"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/aider</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/aider"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/aider"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/aider"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/aiva</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/aiva"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/aiva"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/aiva"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/aiva</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/aiva"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/aiva"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/aiva"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/akkio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/akkio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/akkio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/akkio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/akkio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/akkio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/akkio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/akkio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/anyword</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/anyword"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/anyword"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/anyword"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/anyword</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/anyword"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/anyword"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/anyword"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/beautiful-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/beautiful-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/beautiful-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/beautiful-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/beautiful-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/blockade-labs</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/blockade-labs"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/blockade-labs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/blockade-labs"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/blockade-labs</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/blockade-labs"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/blockade-labs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/blockade-labs"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/canva-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/canva-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/canva-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/canva-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/canva-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/canva-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/canva-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/canva-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/chatgpt</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/chatgpt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/chatgpt"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/claude-code</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/claude-code"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/claude-code"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/claude-code"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/claude-code</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/claude-code"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/claude-code"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/claude-code"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/claude</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/claude"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/claude"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/claude"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/claude</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/claude"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/claude"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/claude"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/codeium</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/codeium"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/codeium"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/codeium"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/codeium</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/codeium"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/codeium"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/codeium"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/consensus</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/consensus"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/consensus"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/consensus"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/consensus</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/consensus"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/consensus"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/consensus"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/copy-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/copy-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/copy-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/copy-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/copy-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/copy-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/copy-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/copy-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/cursor</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/cursor"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/cursor"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/cursor"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/cursor</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/cursor"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/cursor"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/cursor"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/dall-e</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/dall-e"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/dall-e"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/dall-e"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/dall-e</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/dall-e"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/dall-e"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/dall-e"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/deepl</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/deepl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/deepl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/deepl"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/deepl</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/deepl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/deepl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/deepl"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/deepseek</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/deepseek"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/deepseek"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/deepseek"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/deepseek</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/deepseek"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/deepseek"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/deepseek"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/descript</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/descript"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/descript"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/descript"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/descript</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/descript"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/descript"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/descript"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/duolingo-max</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/duolingo-max"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/duolingo-max</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/duolingo-max"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/duolingo-max"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/elevenlabs</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/elevenlabs"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/elevenlabs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/elevenlabs"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/elevenlabs</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/elevenlabs"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/elevenlabs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/elevenlabs"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/elicit</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/elicit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/elicit"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/elicit"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/elicit</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/elicit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/elicit"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/elicit"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/figma-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/figma-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/figma-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/figma-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/figma-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/fireflies-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/fireflies-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/fireflies-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/fireflies-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/fireflies-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/fireflies-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/fireflies-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/fireflies-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/flux-pro</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/flux-pro"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/flux-pro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/flux-pro"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/flux-pro</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/flux-pro"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/flux-pro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/flux-pro"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/freepik-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/freepik-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/freepik-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/freepik-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/freepik-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/freepik-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/freepik-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/freepik-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/freshdesk-freddy</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/freshdesk-freddy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/freshdesk-freddy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/freshdesk-freddy"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/freshdesk-freddy</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/freshdesk-freddy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/freshdesk-freddy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/freshdesk-freddy"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/galileo-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/galileo-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/galileo-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/galileo-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/galileo-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/galileo-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/galileo-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/galileo-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/gamma</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/gamma"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/gamma"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/gamma"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/gamma</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/gamma"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/gamma"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/gamma"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/gemini</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/gemini"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/gemini"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/gemini"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/github-copilot</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/github-copilot"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/github-copilot"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/github-copilot"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/github-copilot</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/github-copilot"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/github-copilot"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/github-copilot"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/grammarly</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/grammarly"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/grammarly"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/grammarly"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/grammarly</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/grammarly"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/grammarly"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/grammarly"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/granola</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/granola"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/granola"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/granola"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/granola</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/granola"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/granola"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/granola"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/grok-aurora</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/grok-aurora"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/grok-aurora"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/grok-aurora"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/grok-aurora</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/grok-aurora"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/grok-aurora"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/grok-aurora"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/grok</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/grok"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/grok"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/grok"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/grok</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/grok"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/grok"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/grok"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/hex</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/hex"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/hex"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/hex"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/hex</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/hex"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/hex"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/hex"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/heygen</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/heygen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/heygen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/heygen"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/heygen</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/heygen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/heygen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/heygen"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/ideogram</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/ideogram"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/ideogram"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/ideogram"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/ideogram</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/ideogram"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/ideogram"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/ideogram"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/intercom-fin</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/intercom-fin"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/intercom-fin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/intercom-fin"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/intercom-fin</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/intercom-fin"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/intercom-fin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/intercom-fin"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/jasper</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/jasper"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/jasper"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/jasper"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/jasper</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/jasper"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/jasper"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/jasper"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/julius-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/julius-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/julius-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/julius-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/julius-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/julius-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/julius-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/julius-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/khanmigo</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/khanmigo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/khanmigo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/khanmigo"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/khanmigo</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/khanmigo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/khanmigo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/khanmigo"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/kimi</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/kimi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/kimi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/kimi"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/kimi</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/kimi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/kimi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/kimi"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/kiro</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/kiro"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/kiro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/kiro"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/kiro</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/kiro"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/kiro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/kiro"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/kling</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/kling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/kling"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/kling"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/kling</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/kling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/kling"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/kling"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/krea-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/krea-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/krea-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/krea-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/krea-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/krea-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/krea-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/krea-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/leonardo-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/leonardo-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/leonardo-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/leonardo-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/leonardo-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/leonardo-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/leonardo-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/leonardo-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/lokalise</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/lokalise"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/lokalise"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/lokalise"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/lokalise</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/lokalise"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/lokalise"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/lokalise"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/looka</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/looka"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/looka"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/looka"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/looka</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/looka"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/looka"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/looka"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/lovable</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/lovable"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/lovable"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/lovable"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/lovable</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/lovable"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/lovable"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/lovable"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/luma-dream-machine</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/luma-dream-machine"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/luma-dream-machine"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/luma-dream-machine"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/luma-dream-machine</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/luma-dream-machine"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/luma-dream-machine"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/luma-dream-machine"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/magicschool-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/magicschool-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/magicschool-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/magicschool-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/magicschool-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/magicschool-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/magicschool-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/magicschool-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/meshy</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/meshy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/meshy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/meshy"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/meshy</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/meshy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/meshy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/meshy"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/midjourney</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/midjourney"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/midjourney"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/midjourney"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/midjourney</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/midjourney"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/midjourney"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/midjourney"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/minimax-hailuo</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/minimax-hailuo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/minimax-hailuo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/minimax-hailuo"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/minimax-hailuo</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/minimax-hailuo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/minimax-hailuo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/minimax-hailuo"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/murf-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/murf-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/murf-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/murf-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/murf-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/murf-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/murf-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/murf-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/notebooklm</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/notebooklm"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/notebooklm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/notebooklm"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/notebooklm</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/notebooklm"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/notebooklm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/notebooklm"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/notion-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/notion-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/notion-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/notion-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/notion-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/notion-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/notion-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/notion-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/openai-codex</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/openai-codex"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/openai-codex"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/openai-codex"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/openai-codex</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/openai-codex"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/openai-codex"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/openai-codex"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/otter-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/otter-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/otter-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/otter-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/otter-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/otter-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/otter-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/otter-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/perplexity</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/perplexity"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/perplexity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/perplexity"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/perplexity</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/perplexity"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/perplexity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/perplexity"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/photomath</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/photomath"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/photomath"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/photomath"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/photomath</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/photomath"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/photomath"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/photomath"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/photoroom</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/photoroom"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/photoroom"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/photoroom"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/photoroom</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/photoroom"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/photoroom"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/photoroom"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/phrase</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/phrase"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/phrase"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/phrase"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/phrase</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/phrase"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/phrase"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/phrase"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/pika</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/pika"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/pika"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/pika"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/pika</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/pika"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/pika"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/pika"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/play-ht</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/play-ht"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/play-ht"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/play-ht"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/play-ht</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/play-ht"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/play-ht"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/play-ht"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/polymer</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/polymer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/polymer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/polymer"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/polymer</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/polymer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/polymer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/polymer"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/quizlet-qchat</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/quizlet-qchat"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/quizlet-qchat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/quizlet-qchat"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/quizlet-qchat</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/quizlet-qchat"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/quizlet-qchat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/quizlet-qchat"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/reclaim-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/reclaim-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/reclaim-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/reclaim-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/reclaim-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/reclaim-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/reclaim-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/reclaim-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/recraft</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/recraft"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/recraft"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/recraft"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/recraft</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/recraft"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/recraft"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/recraft"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/remove-bg</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/remove-bg"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/remove-bg"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/remove-bg"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/remove-bg</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/remove-bg"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/remove-bg"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/remove-bg"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/replit-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/replit-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/replit-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/replit-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/replit-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/replit-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/replit-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/replit-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/rodin</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/rodin"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/rodin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/rodin"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/rodin</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/rodin"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/rodin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/rodin"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/rows-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/rows-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/rows-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/rows-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/rows-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/rows-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/rows-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/rows-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/runway</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/runway"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/runway"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/runway"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/runway</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/runway"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/runway"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/runway"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/rytr</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/rytr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/rytr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/rytr"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/rytr</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/rytr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/rytr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/rytr"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/scenario</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/scenario"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/scenario"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/scenario"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/scenario</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/scenario"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/scenario"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/scenario"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/scispace</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/scispace"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/scispace"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/scispace"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/scispace</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/scispace"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/scispace"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/scispace"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/scite</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/scite"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/scite"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/scite"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/scite</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/scite"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/scite"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/scite"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/semantic-scholar</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/semantic-scholar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/semantic-scholar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/semantic-scholar"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/semantic-scholar</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/semantic-scholar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/semantic-scholar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/semantic-scholar"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/smartcat</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/smartcat"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/smartcat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/smartcat"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/smartcat</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/smartcat"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/smartcat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/smartcat"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/sora</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/sora"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/sora"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/sora"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/sora</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/sora"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/sora"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/sora"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/speechify</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/speechify"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/speechify"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/speechify"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/speechify</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/speechify"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/speechify"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/speechify"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/stable-diffusion</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/stable-diffusion"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/stable-diffusion"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/stable-diffusion"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/stable-diffusion</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/stable-diffusion"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/stable-diffusion"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/stable-diffusion"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/sudowrite</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/sudowrite"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/sudowrite"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/sudowrite"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/sudowrite</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/sudowrite"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/sudowrite"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/sudowrite"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/suno</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/suno"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/suno"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/suno"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/suno</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/suno"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/suno"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/suno"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/synthesia</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/synthesia"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/synthesia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/synthesia"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/synthesia</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/synthesia"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/synthesia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/synthesia"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/tabnine</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tabnine"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tabnine"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tabnine"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/tabnine</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tabnine"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tabnine"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tabnine"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/taskade</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/taskade"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/taskade"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/taskade"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/taskade</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/taskade"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/taskade"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/taskade"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/tidio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tidio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tidio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tidio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/tidio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tidio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tidio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tidio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/tome</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tome"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tome"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tome"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/tome</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tome"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tome"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tome"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/tripo-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tripo-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tripo-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tripo-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/tripo-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/tripo-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/tripo-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/tripo-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/udio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/udio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/udio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/udio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/udio</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/udio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/udio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/udio"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/veo</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/veo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/veo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/veo"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/veo</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/veo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/veo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/veo"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/windsurf</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/windsurf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/windsurf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/windsurf"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/windsurf</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/windsurf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/windsurf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/windsurf"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/writer</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/writer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/writer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/writer"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/writer</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/writer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/writer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/writer"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/writesonic</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/writesonic"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/writesonic"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/writesonic"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/writesonic</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/writesonic"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/writesonic"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/writesonic"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/you-com</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/you-com"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/you-com"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/you-com"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/you-com</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/you-com"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/you-com"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/you-com"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/zh/tools/zendesk-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/zendesk-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/zendesk-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/zendesk-ai"/>
+  </url>
+  <url>
+    <loc>https://aicompare.jtlcook.com/en/tools/zendesk-ai</loc>
+    <lastmod>2026-05-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aicompare.jtlcook.com/zh/tools/zendesk-ai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aicompare.jtlcook.com/en/tools/zendesk-ai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aicompare.jtlcook.com/zh/tools/zendesk-ai"/>
   </url>
 </urlset>

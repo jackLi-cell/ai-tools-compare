@@ -3,21 +3,98 @@
     "slug": "ai-coding",
     "name": "AI 编程工具",
     "description": "AI 驱动的代码编辑器、补全工具和编程 Agent，帮助开发者提升编码效率",
-    "tools": ["cursor", "github-copilot", "claude-code", "windsurf"],
+    "tools": ["cursor", "github-copilot", "claude-code", "windsurf", "kiro", "codeium", "tabnine", "openai-codex", "replit-ai", "aider", "lovable"],
     "icon": "code"
   },
   {
     "slug": "ai-chat",
-    "name": "AI 对话与写作",
-    "description": "通用 AI 对话助手和专业写作工具，覆盖日常问答、内容创作和信息搜索",
-    "tools": ["chatgpt", "claude", "gemini", "perplexity", "jasper", "notion-ai", "elevenlabs"],
+    "name": "AI 对话助手",
+    "description": "通用 AI 对话助手，覆盖日常问答、深度研究和信息搜索",
+    "tools": ["chatgpt", "claude", "gemini", "perplexity", "deepseek", "kimi", "grok", "notebooklm"],
     "icon": "chat"
   },
   {
     "slug": "ai-image",
-    "name": "AI 图像与视频",
-    "description": "AI 图像生成、视频创作和视觉内容工具，从概念设计到成品输出",
-    "tools": ["midjourney", "dall-e", "stable-diffusion", "runway"],
+    "name": "AI 图像生成",
+    "description": "AI 图像生成和编辑工具，从概念设计到成品输出",
+    "tools": ["midjourney", "dall-e", "stable-diffusion", "flux-pro", "leonardo-ai", "ideogram", "adobe-firefly", "recraft", "freepik-ai", "grok-aurora"],
     "icon": "image"
+  },
+  {
+    "slug": "ai-video",
+    "name": "AI 视频生成",
+    "description": "AI 驱动的视频生成和数字人工具，从文字到影像一键创作",
+    "tools": ["runway", "kling", "pika", "heygen", "synthesia", "luma-dream-machine", "sora", "veo", "minimax-hailuo"],
+    "icon": "video"
+  },
+  {
+    "slug": "ai-voice",
+    "name": "AI 语音与音乐",
+    "description": "AI 语音生成、克隆、音视频编辑和音乐创作工具",
+    "tools": ["elevenlabs", "murf-ai", "play-ht", "descript", "suno", "udio", "aiva", "speechify"],
+    "icon": "voice"
+  },
+  {
+    "slug": "ai-writing",
+    "name": "AI 写作与营销",
+    "description": "AI 营销内容生成、SEO 优化和文案写作工具，提升内容产出效率",
+    "tools": ["jasper", "copy-ai", "writesonic", "grammarly", "rytr", "anyword", "sudowrite", "writer"],
+    "icon": "writing"
+  },
+  {
+    "slug": "ai-productivity",
+    "name": "AI 办公效率",
+    "description": "AI 演示文稿、会议记录和项目管理工具，让办公自动化",
+    "tools": ["notion-ai", "gamma", "otter-ai", "fireflies-ai", "beautiful-ai", "taskade", "tome", "reclaim-ai", "granola"],
+    "icon": "productivity"
+  },
+  {
+    "slug": "ai-design",
+    "name": "AI 设计工具",
+    "description": "AI 辅助的平面设计、UI 设计和图片编辑工具，降低设计门槛",
+    "tools": ["canva-ai", "figma-ai", "looka", "remove-bg", "photoroom", "galileo-ai", "krea-ai"],
+    "icon": "design"
+  },
+  {
+    "slug": "ai-search",
+    "name": "AI 搜索与研究",
+    "description": "AI 驱动的学术搜索、论文分析和研究辅助工具，加速知识发现",
+    "tools": ["elicit", "consensus", "semantic-scholar", "scite", "you-com", "scispace"],
+    "icon": "search"
+  },
+  {
+    "slug": "ai-data",
+    "name": "AI 数据分析",
+    "description": "AI 数据分析、可视化和预测建模工具，让数据洞察触手可及",
+    "tools": ["julius-ai", "hex", "rows-ai", "akkio", "polymer"],
+    "icon": "data"
+  },
+  {
+    "slug": "ai-customer-service",
+    "name": "AI 客服与支持",
+    "description": "AI 客服机器人、工单管理和自动化支持工具，提升客户满意度",
+    "tools": ["intercom-fin", "tidio", "ada-cx", "zendesk-ai", "freshdesk-freddy"],
+    "icon": "support"
+  },
+  {
+    "slug": "ai-translation",
+    "name": "AI 翻译与本地化",
+    "description": "AI 翻译、本地化管理和多语言内容工具，打破语言壁垒",
+    "tools": ["deepl", "phrase", "smartcat", "lokalise"],
+    "icon": "translate"
+  },
+  {
+    "slug": "ai-education",
+    "name": "AI 教育学习",
+    "description": "AI 家教、课程生成和个性化学习工具，让教育更高效",
+    "tools": ["khanmigo", "magicschool-ai", "duolingo-max", "quizlet-qchat", "photomath"],
+    "icon": "education"
+  },
+  {
+    "slug": "ai-3d",
+    "name": "AI 3D 与游戏",
+    "description": "AI 3D 模型生成、游戏资产创建和虚拟环境工具",
+    "tools": ["meshy", "tripo-ai", "blockade-labs", "scenario", "rodin"],
+    "icon": "cube"
   }
 ]
