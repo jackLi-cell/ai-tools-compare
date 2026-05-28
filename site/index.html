@@ -14,21 +14,21 @@
   var lang = navigator.language || navigator.userLanguage || '';
   var stored = localStorage.getItem('preferred-lang');
   if (stored) {
-    window.location.replace('./' + stored + '/index.html');
+    window.location.replace('/' + stored + '/index.html');
     return;
   }
   if (lang.startsWith('zh')) {
-    window.location.replace('./zh/index.html');
+    window.location.replace('/zh/index.html');
   } else {
-    window.location.replace('./en/index.html');
+    window.location.replace('/en/index.html');
   }
 })();
 </script>
 <noscript>
-<meta http-equiv="refresh" content="0;url=./zh/index.html">
+<meta http-equiv="refresh" content="0;url=/zh/index.html">
 </noscript>
 </head>
 <body>
-<p>Redirecting... <a href="./zh/index.html">中文</a> | <a href="./en/index.html">English</a></p>
+<p>Redirecting... <a href="/zh/index.html">中文</a> | <a href="/en/index.html">English</a></p>
 </body>
 </html>

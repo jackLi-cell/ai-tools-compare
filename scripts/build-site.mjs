@@ -13,10 +13,20 @@ const DATA = join(ROOT, 'data');
 const SITE_SRC = join(ROOT, 'site');
 const OUT = join(ROOT, 'site');
 
-const DOMAIN = 'https://aicompare.jtlcook.com';
+const DOMAIN = normalizeSiteUrl(process.env.SITE_URL, 'https://aicompare.jtlcook.com');
 const SITE_NAME = 'AI 工具对比';
 const CONTACT_EMAIL = '1055567003@qq.com';
 const NOW = new Date().toISOString().split('T')[0];
+const SITEMAP_TOOL_LIMIT = Number(process.env.SITEMAP_TOOL_LIMIT || 35);
+const SITEMAP_COMPARISON_LIMIT = Number(process.env.SITEMAP_COMPARISON_LIMIT || 22);
+const SITEMAP_ALTERNATIVE_LIMIT = Number(process.env.SITEMAP_ALTERNATIVE_LIMIT || 8);
+const SITEMAP_BEST_LIMIT = Number(process.env.SITEMAP_BEST_LIMIT || 5);
+const SITEMAP_FREE_LIMIT = Number(process.env.SITEMAP_FREE_LIMIT || 3);
+
+function normalizeSiteUrl(value, fallback) {
+  const raw = String(value || fallback || '').trim().replace(/\/+$/, '');
+  return raw.replace(/^http:\/\//i, 'https://');
+}
 
 // Load data
 const tools = JSON.parse(readFileSync(join(DATA, 'tools.json'), 'utf-8'));
@@ -773,17 +783,17 @@ function buildSitemap() {
   urls.push({ loc: DOMAIN, priority: '1.0', changefreq: 'daily' });
 
   // Tool pages
-  for (const t of tools) {
+  for (const t of tools.slice(0, SITEMAP_TOOL_LIMIT)) {
     urls.push({ loc: cleanUrl(`tools/${t.slug}.html`), priority: '0.8', changefreq: 'weekly', lastmod: t.lastUpdated });
   }
 
   // Comparison pages
-  for (const c of comparisons) {
+  for (const c of comparisons.slice(0, SITEMAP_COMPARISON_LIMIT)) {
     urls.push({ loc: cleanUrl(`compare/${c.slug}.html`), priority: '0.8', changefreq: 'weekly', lastmod: NOW });
   }
 
   // Alternative pages
-  for (const a of alternatives) {
+  for (const a of alternatives.slice(0, SITEMAP_ALTERNATIVE_LIMIT)) {
     urls.push({ loc: cleanUrl(`alternatives/${a.slug}.html`), priority: '0.7', changefreq: 'weekly', lastmod: NOW });
   }
 
@@ -793,12 +803,12 @@ function buildSitemap() {
   }
 
   // Best pages
-  for (const b of bestData) {
+  for (const b of bestData.slice(0, SITEMAP_BEST_LIMIT)) {
     urls.push({ loc: cleanUrl(`best/${b.slug}.html`), priority: '0.7', changefreq: 'weekly', lastmod: NOW });
   }
 
   // Free plan pages
-  for (const fp of freePlans) {
+  for (const fp of freePlans.slice(0, SITEMAP_FREE_LIMIT)) {
     urls.push({ loc: cleanUrl(`free/${fp.slug}.html`), priority: '0.6', changefreq: 'weekly', lastmod: NOW });
   }
 

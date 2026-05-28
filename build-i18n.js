@@ -2,7 +2,13 @@ const fs = require('fs');
 const path = require('path');
 
 const SITE_DIR = path.join(__dirname, 'site');
-const DOMAIN = 'https://aicompare.jtlcook.com';
+const DOMAIN = normalizeSiteUrl(process.env.SITE_URL, 'https://aicompare.jtlcook.com');
+const SITEMAP_HTML_LIMIT = Number(process.env.SITEMAP_HTML_LIMIT || 49);
+
+function normalizeSiteUrl(value, fallback) {
+  const raw = String(value || fallback || '').trim().replace(/\/+$/, '');
+  return raw.replace(/^http:\/\//i, 'https://');
+}
 
 // Translation dictionary for common Chinese text -> English
 const TRANSLATIONS = {
@@ -589,12 +595,13 @@ function generateRootIndex() {
  */
 function generateSitemap(htmlFiles) {
   const today = new Date().toISOString().split('T')[0];
+  const sitemapFiles = selectSitemapHtmlFiles(htmlFiles);
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 `;
 
-  for (const relPath of htmlFiles) {
+  for (const relPath of sitemapFiles) {
     const urlPath = getCanonicalPath(relPath);
     const zhUrl = `${DOMAIN}/zh${urlPath ? '/' + urlPath : ''}`;
     const enUrl = `${DOMAIN}/en${urlPath ? '/' + urlPath : ''}`;
@@ -622,6 +629,23 @@ function generateSitemap(htmlFiles) {
 
   xml += `</urlset>`;
   return xml;
+}
+
+function selectSitemapHtmlFiles(htmlFiles) {
+  const score = (relPath) => {
+    if (relPath === 'index.html') return 0;
+    if (/^(about|contact|privacy|terms)\.html$/.test(relPath)) return 1;
+    if (/^category\//.test(relPath)) return 2;
+    if (/^compare\//.test(relPath)) return 3;
+    if (/^alternatives\//.test(relPath)) return 4;
+    if (/^best\//.test(relPath)) return 5;
+    if (/^free\//.test(relPath)) return 6;
+    if (/^tools\//.test(relPath)) return 8;
+    return 20;
+  };
+  return [...htmlFiles]
+    .sort((a, b) => score(a) - score(b) || a.localeCompare(b))
+    .slice(0, SITEMAP_HTML_LIMIT);
 }
 
 /**
