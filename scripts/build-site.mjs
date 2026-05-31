@@ -98,7 +98,9 @@ function layout(pagePath, { title, description, canonical, ogType = 'website', j
 <meta name="twitter:title" content="${title}">
 <meta name="twitter:description" content="${description}">
 ${jsonLd}
+<link rel="icon" href="${prefix}favicon.ico" sizes="any">
 <link rel="icon" href="${prefix}favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="${prefix}apple-touch-icon.png">
 <link rel="stylesheet" href="${cssPath}">
 </head>
 <body>
