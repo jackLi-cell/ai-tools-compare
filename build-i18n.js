@@ -4,10 +4,23 @@ const path = require('path');
 const SITE_DIR = path.join(__dirname, 'site');
 const DOMAIN = normalizeSiteUrl(process.env.SITE_URL, 'https://aicompare.jtlcook.com');
 const SITEMAP_HTML_LIMIT = Number(process.env.SITEMAP_HTML_LIMIT || 49);
+const BAIDU_ANALYTICS_ID = '8130ef5ed84040f852fe324d6702fddc';
 
 function normalizeSiteUrl(value, fallback) {
   const raw = String(value || fallback || '').trim().replace(/\/+$/, '');
   return raw.replace(/^http:\/\//i, 'https://');
+}
+
+function baiduAnalyticsScript() {
+  return `<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?${BAIDU_ANALYTICS_ID}";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>`;
 }
 
 // Translation dictionary for common Chinese text -> English
@@ -64,6 +77,16 @@ const TRANSLATIONS = {
   '工具分类': 'Tool Categories',
   '热门对比': 'Popular Comparisons',
   '关于本站': 'About This Site',
+  '最后更新：': 'Last updated: ',
+  '信息收集': 'Information Collection',
+  'AI 工具对比 是纯静态网站，我们不收集用户提交的个人身份信息。百度统计等访问统计服务可能使用 Cookie 或类似技术生成匿名、汇总的访问指标。': 'AI Tool Comparison is a static website. We do not collect personal identity information submitted by users. Baidu Analytics and similar analytics services may use cookies or similar technology to generate anonymous, aggregated visit metrics.',
+  '第三方服务': 'Third-Party Services',
+  '本站已接入百度统计（Baidu Analytics），用于了解汇总访问量、访问来源和页面使用情况，不用于识别个人身份。': 'This site uses Baidu Analytics for aggregated visit counts, traffic sources, and page usage. It is not used to identify individuals.',
+  '外部链接': 'External Links',
+  '本站包含指向第三方网站的链接。我们对这些网站的隐私政策不承担责任，建议您在访问时查阅其各自的隐私政策。': 'This site contains links to third-party websites. We are not responsible for their privacy policies, and we recommend reviewing each site policy when you visit.',
+  '联系方式': 'Contact',
+  '如对隐私政策有疑问，请联系：1055567003@qq.com': 'For questions about this privacy policy, contact: 1055567003@qq.com',
+  '如对隐私政策有疑问，请联系：': 'For questions about this privacy policy, contact: ',
   // Index page
   '找到最适合你的 AI 工具': 'Find the Best AI Tool for You',
   '独立客观的 AI 工具对比评测，覆盖 100 款主流工具，帮你做出明智选择': 'Independent AI tool comparisons covering 100+ popular tools to help you make informed decisions',
@@ -396,6 +419,11 @@ function translateHtmlContent(html) {
     (m, pre, text, post) => `${pre}${translateText(text)}${post}`
   );
 
+  result = result.replace(
+    /<p>如对隐私政策有疑问，请联系：<a href="mailto:1055567003@qq.com">1055567003@qq.com<\/a><\/p>/g,
+    '<p>For questions about this privacy policy, contact: <a href="mailto:1055567003@qq.com">1055567003@qq.com</a></p>'
+  );
+
   // Spans with specific classes
   result = result.replace(
     /(<span class="compare-card-title">)([^<]+)(<\/span>)/g,
@@ -565,6 +593,7 @@ function generateRootIndex() {
 <link rel="alternate" hreflang="en" href="${DOMAIN}/en/">
 <link rel="alternate" hreflang="x-default" href="${DOMAIN}/zh/">
 <meta name="robots" content="noindex">
+${baiduAnalyticsScript()}
 <script>
 (function() {
   var lang = navigator.language || navigator.userLanguage || '';

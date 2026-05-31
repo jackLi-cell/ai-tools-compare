@@ -17,6 +17,7 @@ const DOMAIN = normalizeSiteUrl(process.env.SITE_URL, 'https://aicompare.jtlcook
 const SITE_NAME = 'AI 工具对比';
 const CONTACT_EMAIL = '1055567003@qq.com';
 const NOW = new Date().toISOString().split('T')[0];
+const BAIDU_ANALYTICS_ID = '8130ef5ed84040f852fe324d6702fddc';
 const SITEMAP_TOOL_LIMIT = Number(process.env.SITEMAP_TOOL_LIMIT || 35);
 const SITEMAP_COMPARISON_LIMIT = Number(process.env.SITEMAP_COMPARISON_LIMIT || 22);
 const SITEMAP_ALTERNATIVE_LIMIT = Number(process.env.SITEMAP_ALTERNATIVE_LIMIT || 8);
@@ -71,6 +72,18 @@ function writePage(relPath, content) {
   writeFileSync(fullPath, content, 'utf-8');
 }
 
+function baiduAnalyticsScript() {
+  return `<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?${BAIDU_ANALYTICS_ID}";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>`;
+}
+
 // Category icon map
 const categoryIcons = { code: '💻', chat: '💬', image: '🎨' };
 
@@ -102,6 +115,7 @@ ${jsonLd}
 <link rel="icon" href="${prefix}favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="${prefix}apple-touch-icon.png">
 <link rel="stylesheet" href="${cssPath}">
+${baiduAnalyticsScript()}
 </head>
 <body>
 <header class="site-header">
@@ -728,9 +742,9 @@ function buildTrustPages() {
       content: `<h1>隐私政策</h1>
 <p>最后更新：${NOW}</p>
 <h2>信息收集</h2>
-<p>${SITE_NAME} 是纯静态网站，我们不收集任何个人身份信息。我们不使用 Cookie 追踪用户行为。</p>
+<p>${SITE_NAME} 是纯静态网站，我们不收集用户提交的个人身份信息。百度统计等访问统计服务可能使用 Cookie 或类似技术生成匿名、汇总的访问指标。</p>
 <h2>第三方服务</h2>
-<p>本站托管于 Cloudflare Pages，Cloudflare 可能会收集基本的访问日志（IP 地址、浏览器类型等）用于安全防护。详情请参阅 Cloudflare 的隐私政策。</p>
+<p>本站已接入百度统计（Baidu Analytics），用于了解汇总访问量、访问来源和页面使用情况，不用于识别个人身份。</p>
 <h2>外部链接</h2>
 <p>本站包含指向第三方网站的链接。我们对这些网站的隐私政策不承担责任，建议您在访问时查阅其各自的隐私政策。</p>
 <h2>联系方式</h2>
